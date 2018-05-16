@@ -1,0 +1,1 @@
+q1(CityId, CityPop, Lat, Long, CountryCode) :- city(CityId, CityPop, Lat, Long, CountryCode), CityPop > 1000000.

@@ -1,0 +1,22 @@
+The initial assumption that we had was that if the country names from Mondial and Gapminder were slightly different, the name from Gapminder would be used. In addition, if a country is split into different names in Gapminder, the names in Gapminder would be used. 
+
+
+Other Assumptions:
+(Mondial => Gapminder)
+Slovakia => Slovak Republic
+Saint Pierre and Miquelon = > Saint-Pierre-et-Miquelon
+Wallis and Futuna = > Wallis et Futuna
+West Bank => West Bank and Gaza
+Use the country code of Germany for both East, West Germany, and Germany.
+South Korea = > Korea, Dem. Rep. (Official Name)
+North Korea => Korea, Rep. (Official Name)
+
+
+Actual Insert statements:
+In order to do the initial  mapping of the Mondial country codes with the GapMinder country names, we exported the Mondial country code and country name along with the GapMinder country name. The countries that are in both Mondial and GapMinder are then exported as a .csv file and the python script loadBridge.py reads the .csv file and generates insert statements without the country codes like:
+
+insert into BridgeTable values('', 'CountryNames');
+ 
+After accomodating for the counries that are in both databases, we use excel to get the countries that are only in Mondial and the countries that are only in GapMinder and manually map the countires according to the above assumptions and map those countries with the respective country code from Mondial. After having the mapping of the country name and country code for the ones that are not in both gapminder and mondial, we manually wrote insert statement for all the countries. 
+
+Note: We have included loadBridge.py which takes in the country name that both Mondial and GapMinder have. We have also included the .csv files that both Mondial and GapMinder have. The mappings that include the countires not in both databases were done manually when creating the insert statements, therefore, we do not have a .csv file for the mappings for country name to country code for those not in both databases.

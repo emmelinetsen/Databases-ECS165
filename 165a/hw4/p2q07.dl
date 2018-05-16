@@ -1,0 +1,2 @@
+q7(CountryCode) :- country_continent(CountryCode, 'Asia').
+q7(CountryCode) :- country_continent(CountryCode, 'Europe').

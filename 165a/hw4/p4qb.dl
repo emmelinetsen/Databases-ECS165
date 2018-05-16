@@ -1,0 +1,4 @@
+ancestor(C,A) :- parent(C,A).
+ancestor(C,A) :-
+	parent(C,B),
+	ancestor(B,A).

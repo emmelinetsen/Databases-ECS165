@@ -1,0 +1,12 @@
+{
+  grandparent(albert,hermann),
+  grandparent(albert,johanna),
+  grandparent(bernhard,rita),
+  grandparent(bernhard,wilhelm),
+  grandparent(eva,hermann),
+  grandparent(eva,johanna),
+  grandparent(karl,rita),
+  grandparent(karl,wilhelm),
+  grandparent(kati,rita),
+  grandparent(kati,wilhelm)
+}

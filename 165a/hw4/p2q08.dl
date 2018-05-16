@@ -1,0 +1,3 @@
+q8(CountryCode):-country_continent(CountryCode,'Europe'),
+		country_continent(CountryCode2, 'Asia'),
+		CountryCode = CountryCode2.

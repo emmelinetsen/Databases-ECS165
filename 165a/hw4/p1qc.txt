@@ -1,0 +1,19 @@
+hw4=# create table Country(name varchar(30) constraint nam_pk primary key, language varchar(30));
+NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "nam_pk" for table "country"
+CREATE TABLE
+hw4=# create table Language(lang varchar(30) constraint lang_pk primary key, location varchar(30));
+NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "lang_pk" for table "language"
+CREATE TABLE
+hw4=# alter table Country add constraint c_fk foreign key(language) references Language(lang);
+ALTER TABLE
+hw4=# alter table Language add constraint l_fk foreign key(location) references Country(name);
+ALTER TABLE
+hw4=# insert into Country values('USA', 'English');
+ERROR:  insert or update on table "country" violates foreign key constraint "c_fk"
+DETAIL:  Key (language)=(English) is not present in table "language".
+hw4=# insert into Language values('English', 'USA');
+ERROR:  insert or update on table "language" violates foreign key constraint "l_fk"
+DETAIL:  Key (location)=(USA) is not present in table "country".
+
+---
+There is an error when trying to insert

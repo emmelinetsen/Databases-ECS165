@@ -1,0 +1,31 @@
+hw4=# alter table Country drop constraint c_fk
+hw4-# ;
+ALTER TABLE
+hw4=# alter table Language drop constraint l_fk;
+ALTER TABLE
+hw4=# alter table Country add constraint c_fk foreign key(language) references Language(lang) initially deferred deferrable;
+ALTER TABLE
+hw4=# alter table Language add constraint l_fk foreign key(location) references Country(name) initially deferred deferrable;
+ALTER TABLE
+hw4=# Begin Transaction;
+BEGIN
+hw4=# insert into Country values('USA', 'English');
+INSERT 0 1
+hw4=# insert into Language values('English', 'USA');
+INSERT 0 1
+hw4=# commit;
+COMMIT
+hw4=# select * from Country
+;
+ name | language
+------+----------
+ USA  | English
+(1 row)
+
+hw4=# select * from Language
+;
+  lang   | location
+---------+----------
+ English | USA
+(1 row)
+

@@ -1,0 +1,4 @@
+The only changes that were made within each of the five load scripts was that we changed the insert statement to insert into the respective GM tables and modified the table names according to the names that were given.
+
+Like the first part of the assignment, in order to run the scripts, each of the above python files (for example, 'python load_pop.py' would run the load script for the population CSV file)would need to be run once. After running all five load python files, the hw5_load.sql file would contain the insert statements for all five CSV files. However, we have provided a script (run.py) that runs all the python scripts at once.
+

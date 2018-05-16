@@ -1,0 +1,3 @@
+psql:p2q10.sql:9: ERROR:  missing FROM-clause entry for table "c2"
+LINE 1: select C2.cityId
+               ^

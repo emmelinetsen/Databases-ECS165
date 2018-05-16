@@ -1,0 +1,56 @@
+
+ Abuja_Nigeria_WAN                   |  182418 | WAN
+ Accra_Ghana_GH                      |  867459 | GH
+ Addis Ababa_Ethiopia_ETH            | 2316400 | ETH
+ Algier_Algeria_DZ                   | 1507241 | DZ
+ Antananarivo_Antananarivo_RM        | 1250000 | RM
+ Asmara_Eritrea_ER                   |         | ER
+ Bamako_Mali_RMM                     |         | RMM
+ Bangui_Central African Republic_RCA |         | RCA
+ Banjul_Gambia_WAG                   |         | WAG
+ Bissau_Guinea-Bissau_GNB            |         | GNB
+ Brazzaville_Congo_RCB               |         | RCB
+ Bujumbura_Burundi_BI                |         | BI
+ Cairo_El Qahira_ET                  | 6053000 | ET
+ Conakry_Guinea_RG                   |         | RG
+ Dakar_Dakar_SN                      | 1382000 | SN
+ Dar es Salaam_Daressalam_EAT        | 1360850 | EAT
+ Djibouti_Djibouti_DJI               |         | DJI
+ El Aaiun_Western Sahara_WSA         |         | WSA
+ Freetown_Sierra Leone_WAL           |         | WAL
+ Gaborone_Botswana_RB                |         | RB
+ Harare_Zimbabwe_ZW                  |         | ZW
+ Kampala_Uganda_EAU                  |         | EAU
+ Khartoum_al Khartum_SUD             |  924505 | SUD
+ Kigali_Rwanda_RWA                   |         | RWA
+ Kinshasa_Kinshasa_ZRE               | 4655313 | ZRE
+ Libreville_Gabon_G                  |         | G
+ Lilongwe_Malawi_MW                  |         | MW
+ Lome_Togo_RT                        |         | RT
+ Luanda_Luanda_ANG                   |         | ANG
+ Lusaka_Lusaka_Z                     |  982362 | Z
+ Malabo_Equatorial Guinea_GQ         |   33000 | GQ
+ Mamoutzou_Mayotte_MAYO              |         | MAYO
+ Maputo_Maputo (munic.)_MOC          |  931591 | MOC
+ Maseru_Lesotho_LS                   |   75000 | LS
+ Mbabane_Swaziland_SD                |         | SD
+ Mogadishu_Somalia_SP                |         | SP
+ Monrovia_Liberia_LB                 |         | LB
+ Moroni_Comoros_COM                  |         | COM
+ Nairobi_Nairobi_EAK                 | 1346000 | EAK
+ NDjamena_Chad_TCH                   |         | TCH
+ Niamey_Niger_RN                     |         | RN
+ Nouakchott_Mauritania_RIM           |         | RIM
+ Ouagadougou_Burkina Faso_BF         |         | BF
+ Port Louis_Mauritius_MS             |         | MS
+ Porto-Novo_Benin_BEN                |         | BEN
+ Praia_Cape Verde_CV                 |  105000 | CV
+ Pretoria_Gauteng_RSA                |  526000 | RSA
+ Rabat_Morocco_MA                    | 1385872 | MA
+ Sao Tome_Sao Tome and Principe_STP  |         | STP
+ Tripoli_Libya_LAR                   |         | LAR
+ Tunis_Tunisia_TN                    |         | TN
+ Victoria_Seychelles_SY              |   24570 | SY
+ Windhoek_Namibia_NAM                |         | NAM
+ Yamoussoukro_Cote dIvoire_CI        |  200659 | CI
+ Yaounde_Centre_CAM                  |  750000 | CAM

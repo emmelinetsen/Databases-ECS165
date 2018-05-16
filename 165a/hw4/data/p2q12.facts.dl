@@ -1,0 +1,698 @@
+country('AL', 'Albania', 28750, 3249136, 4100, 'Tirane_Albania_AL').
+country('GR', 'Greece', 131940, 10538594, 101700, 'Athens_Attiki_GR').
+country('MK', 'Macedonia', 25333, 2104035, 1900, 'Skopje_Macedonia_MK').
+country('SRB', 'Serbia', 77474, 7379339, 52180, 'Belgrade_Serbia_SRB').
+country('MNE', 'Montenegro', 14026, 672180, 4515, 'Podgorica_Montenegro_MNE').
+country('KOS', 'Kosovo', 10887, 1804838, 3237, 'Pristina_Kosovo_KOS').
+country('AND', 'Andorra', 450, 72766, 1000, 'Andorra la Vella_Andorra_AND').
+country('F', 'France', 547030, 58317450, 1173000, 'Paris_Ile de France_F').
+country('E', 'Spain', 504750, 39181114, 565000, 'Madrid_Madrid_E').
+country('A', 'Austria', 83850, 8023244, 152000, 'Vienna_Vienna-Wien_A').
+country('CZ', 'Czech Republic', 78703, 10321120, 106200, 'Prague_Praha_CZ').
+country('D', 'Germany', 356910, 83536115, 1452200, 'Berlin_Berlin_D').
+country('H', 'Hungary', 93030, 10002541, 72500, 'Budapest_Budapest (munic.)_H').
+country('I', 'Italy', 301230, 57460274, 1088600, 'Rome_Lazio_I').
+country('FL', 'Liechtenstein', 160, 31122, 630, 'Vaduz_Liechtenstein_FL').
+country('SK', 'Slovakia', 48845, 5374362, 39000, 'Bratislava_Slovakia_SK').
+country('SLO', 'Slovenia', 20256, 1951443, 22600, 'Ljubljana_Slovenia_SLO').
+country('CH', 'Switzerland', 41290, 7207060, 158500, 'Bern_Bern_CH').
+country('BY', 'Belarus', 207600, 10415973, 49200, 'Minsk_Belarus_BY').
+country('LV', 'Latvia', 64100, 2468982, 14700, 'Riga_Latvia_LV').
+country('LT', 'Lithuania', 65200, 3646041, 13300, 'Vilnius_Lithuania_LT').
+country('PL', 'Poland', 312683, 38642565, 226700, 'Warsaw_Warszwaskie_PL').
+country('UA', 'Ukraine', 603700, 50864009, 174600, 'Kiev_Kyyivska_UA').
+country('R', 'Russia', 17075200, 148178487, 796000, 'Moscow_Moskva_R').
+country('B', 'Belgium', 30510, 10170241, 197000, 'Brussels_Brabant_B').
+country('L', 'Luxembourg', 2586, 415870, 10000, 'Luxembourg_Luxembourg_L').
+country('NL', 'Netherlands', 37330, 15568034, 301900, 'Amsterdam_Noord Holland_NL').
+country('BIH', 'Bosnia and Herzegovina', 51233, 2656240, 1000, 'Sarajevo_Bosnia and Herzegovina_BIH').
+country('HR', 'Croatia', 56538, 5004112, 20100, 'Zagreb_Croatia_HR').
+country('BG', 'Bulgaria', 110910, 8612757, 43200, 'Sofia_Bulgaria_BG').
+country('RO', 'Romania', 237500, 21657162, 105700, 'Bucharest_Bucuresti_RO').
+country('TR', 'Turkey', 780580, 62484478, 345700, 'Ankara_Ankara_TR').
+country('DK', 'Denmark', 43070, 5249632, 112800, 'Copenhagen_Denmark_DK').
+country('EW', 'Estonia', 45100, 1459428, 12300, 'Tallinn_Estonia_EW').
+country('FARX', 'Faroe Islands', 1400, 43857, 733, 'Torshavn_Faroe Islands_FARX').
+country('SF', 'Finland', 337030, 5105230, 92400, 'Helsinki_Uusimaa_SF').
+country('N', 'Norway', 324220, 4383807, 106200, 'Oslo_Oslo_N').
+country('S', 'Sweden', 449964, 8900954, 177300, 'Stockholm_Stockholm_S').
+country('MC', 'Monaco', 1.9, 31719, 788, 'Monaco_Monaco_MC').
+country('GBZ', 'Gibraltar', 6.5, 28765, 205, 'Gibraltar_Gibraltar_GBZ').
+country('GBG', 'Guernsey', 194, 62920, null, 'Saint Peter Port_Guernsey_GBG').
+country('V', 'Holy See', 0.44, 840, null, 'Vatican City_Holy See_V').
+country('IS', 'Iceland', 103000, 270292, 5000, 'Reykjavik_Iceland_IS').
+country('IRL', 'Ireland', 70280, 3566833, 54600, 'Dublin_Ireland_IRL').
+country('RSM', 'San Marino', 60, 24521, 380, 'San Marino_San Marino_RSM').
+country('GBJ', 'Jersey', 117, 87848, null, 'Saint Helier_Jersey_GBJ').
+country('M', 'Malta', 320, 375576, 4400, 'Valletta_Malta_M').
+country('GBM', 'Man', 588, 73837, 780, 'Douglas_Man_GBM').
+country('MD', 'Moldova', 33700, 4463847, 10400, 'Chisinau_Moldova_MD').
+country('P', 'Portugal', 92080, 9865114, 116200, 'Lisbon_Lisbon_P').
+country('SVAX', 'Svalbard', 62049, 2116, null, 'Longyearbyen_Svalbard_SVAX').
+country('GB', 'United Kingdom', 244820, 58489975, 1138400, 'London_Greater London_GB').
+country('AFG', 'Afghanistan', 647500, 22664136, 12800, 'Kabul_Afghanistan_AFG').
+country('TJ', 'China', 9596960, 1210004956, 3500000, 'Beijing_Beijing (munic.)_TJ').
+country('IR', 'Iran', 1648000, 66094264, 323500, 'Tehran_Tehran_IR').
+country('PK', 'Pakistan', 803940, 129275660, 274200, 'Islamabad_Pakistan_PK').
+country('TAD', 'Tajikistan', 143100, 5916373, 6400, 'Dushanbe_Dushanbe (munic.)_TAD').
+country('TM', 'Turkmenistan', 488100, 4149283, 11500, 'Ashgabat_Ahal_TM').
+country('UZB', 'Uzbekistan', 447400, 23418381, 54700, 'Tashkent_Toshkent_UZB').
+country('ARM', 'Armenia', 29800, 3463574, 9100, 'Yerevan_Armenia_ARM').
+country('GE', 'Georgia', 69700, 5219810, 6200, 'Tbilisi_Georgia_GE').
+country('AZ', 'Azerbaijan', 86600, 7676953, 11500, 'Baku_Azerbaijan_AZ').
+country('BRN', 'Bahrain', 620, 590042, 7300, 'Manama_Bahrain_BRN').
+country('BD', 'Bangladesh', 144000, 123062800, 144500, 'Dhaka_Bangladesh_BD').
+country('MYA', 'Myanmar', 678500, 45975625, 47000, 'Rangoon_Yangon_MYA').
+country('IND', 'India', 3287590, 952107694, 1408700, 'New Delhi_Delhi_IND').
+country('BHT', 'Bhutan', 47000, 1822625, 1300, 'Thimphu_Bhutan_BHT').
+country('BRU', 'Brunei', 5770, 299939, 4600, 'Bandar Seri Begawan_Brunei_BRU').
+country('MAL', 'Malaysia', 329750, 19962893, 193600, 'Kuala Lumpur_Fed. Terr. of Kuala Lumpur_MAL').
+country('LAO', 'Laos', 236800, 4975772, 5200, 'Vientiane_Laos_LAO').
+country('THA', 'Thailand', 514000, 58851357, 416700, 'Bangkok_Thailand_THA').
+country('K', 'Cambodia', 181040, 10861218, 7000, 'Phnom Penh_Cambodia_K').
+country('VN', 'Vietnam', 329560, 73976973, 97000, 'Hanoi_Vietnam_VN').
+country('KAZ', 'Kazakstan', 2717300, 16916463, 46900, 'Almaty_Almaty (munic.)_KAZ').
+country('NOK', 'North Korea', 120540, 23904124, 21500, 'Pyongyang_North Korea_NOK').
+country('KGZ', 'Kyrgyzstan', 198500, 4529648, 5400, 'Bishkek_Kyrgyzstan_KGZ').
+country('HONX', 'Hong Kong', 1092, 7055071, 307600, 'Hong Kong_Hong Kong_HONX').
+country('MACX', 'Macau', 16, 496837, 220400, 'Macau_Macau_MACX').
+country('MNG', 'Mongolia', 1565000, 2496617, 4900, 'Ulaanbaatar_Mongolia_MNG').
+country('NEP', 'Nepal', 140800, 22094033, 25200, 'Kathmandu_Nepal_NEP').
+country('XMAS', 'Christmas Island', 135, 1402, null, 'Flying Fish Cove_Christmas Island_XMAS').
+country('COCO', 'Cocos Islands', 14, 596, null, 'West Island_Cocos Islands_COCO').
+country('CY', 'Cyprus', 9251, 744609, 7800, 'Nicosia_Cyprus_CY').
+country('GAZA', 'Gaza Strip', 360, 813332, 1700, null).
+country('IL', 'Israel', 20770, 5421995, 80100, 'Jerusalem_Central_IL').
+country('ET', 'Egypt', 1001450, 63575107, 171000, 'Cairo_El Qahira_ET').
+country('RI', 'Indonesia', 1919440, 206611600, 710900, 'Jakarta_Indonesia_RI').
+country('TL', 'Timor-Leste', 15007, 1131612, 489, 'Dili_Timor-Leste_TL').
+country('PNG', 'Papua New Guinea', 461690, 4394537, 10200, 'Port Moresby_Papua New Guinea_PNG').
+country('IRQ', 'Iraq', 437072, 21422292, 41100, 'Baghdad_Baghdad_IRQ').
+country('JOR', 'Jordan', 89213, 4212152, 19300, 'Amman_Jordan_JOR').
+country('KWT', 'Kuwait', 17820, 1950047, 30800, 'Kuwait_Kuwait_KWT').
+country('SA', 'Saudi Arabia', 1960582, 19409058, 189300, 'Riyadh_Saudi Arabia_SA').
+country('SYR', 'Syria', 185180, 15608648, 91200, 'Damascus_Syria_SYR').
+country('RL', 'Lebanon', 10400, 3776317, 18300, 'Beirut_Lebanon_RL').
+country('WEST', 'West Bank', 5860, 1427741, 3700, null).
+country('J', 'Japan', 377835, 125449703, 2679200, 'Tokyo_Tokyo_J').
+country('ROK', 'South Korea', 98480, 45482291, 590700, 'Seoul_South Korea_ROK').
+country('MV', 'Maldives', 300, 270758, 390, 'Male_Maldives_MV').
+country('OM', 'Oman', 212460, 2186548, 19100, 'Muscat_Oman_OM').
+country('UAE', 'United Arab Emirates', 75581, 3057337, 70100, 'Abu Dhabi_Abu Dhabi_UAE').
+country('YE', 'Yemen', 527970, 13483178, 37100, 'Sanaa_Yemen_YE').
+country('RP', 'Philippines', 299764, 74480848, 179700, 'Manila_Philippines_RP').
+country('Q', 'Qatar', 11000, 547761, 10700, 'Doha_Qatar_Q').
+country('SGP', 'Singapore', 632.6, 3396924, 66100, 'Singapore_Singapore_SGP').
+country('CL', 'Sri Lanka', 65610, 18553074, 65600, 'Colombo_Sri Lanka_CL').
+country('RC', 'Taiwan', 36179, 21465881, 290500, 'Taipei_Taiwan_RC').
+country('AXA', 'Anguilla', 102, 14436, 53, 'The Valley_Anguilla_AXA').
+country('AG', 'Antigua and Barbuda', 442, 65647, 425, 'Saint Johns_Antigua and Barbuda_AG').
+country('ARU', 'Aruba', 193, 103065, 2258, 'Oranjestad_Aruba_ARU').
+country('BS', 'Bahamas', 13940, 259367, 4800, 'Nassau_Bahamas_BS').
+country('BDS', 'Barbados', 430, 257030, 2500, 'Bridgetown_Barbados_BDS').
+country('BZ', 'Belize', 22960, 219296, 575, 'Belmopan_Belize_BZ').
+country('GCA', 'Guatemala', 108890, 11277614, 36700, 'Guatemala City_Guatemala_GCA').
+country('MEX', 'Mexico', 1972550, 95772462, 721400, 'Mexico City_Distrito Federal_MEX').
+country('BERM', 'Bermuda', 53.3, 67837, 4500, 'Hamilton_Bermuda_BERM').
+country('BVIR', 'British Virgin Islands', 153, 24491, 133, 'Road Town_British Virgin Islands_BVIR').
+country('CDN', 'Canada', 9976140, 28820671, 694000, 'Ottawa_Ontario_CDN').
+country('USA', 'United States', 9372610, 266476278, 7247700, 'Washington_Distr. Columbia_USA').
+country('CAYM', 'Cayman Islands', 262, 49035, 1939, 'George Town_Cayman Islands_CAYM').
+country('CR', 'Costa Rica', 51100, 3463083, 18400, 'San Jose_San Jose_CR').
+country('NIC', 'Nicaragua', 129494, 4272352, 7100, 'Managua_Nicaragua_NIC').
+country('PA', 'Panama', 78200, 2655094, 13600, 'Panama City_Panama_PA').
+country('C', 'Cuba', 110860, 10951334, 14700, 'Havana_Ciudad de la Habana_C').
+country('WD', 'Dominica', 746, 82926, 200, 'Roseau_Dominica_WD').
+country('DOM', 'Dominican Republic', 48730, 8088881, 26800, 'Santo Domingo_Dominican Republic_DOM').
+country('RH', 'Haiti', 27750, 6731539, 6500, 'Port-au-Prince_Haiti_RH').
+country('ES', 'El Salvador', 21040, 5828987, 11400, 'San Salvador_El Salvador_ES').
+country('HCA', 'Honduras', 112090, 5605193, 10800, 'Tegucigalpa_Francisco Morazan_HCA').
+country('GROX', 'Greenland', 2175600, 58203, 892, 'Nuuk_Greenland_GROX').
+country('WG', 'Grenada', 344, 94961, 284, 'Saint Georges_Grenada_WG').
+country('GUAD', 'Guadeloupe', 1780, 407768, 3700, 'Basse-Terre_Guadeloupe_GUAD').
+country('JA', 'Jamaica', 10991, 2595275, 8200, 'Kingston_Jamaica_JA').
+country('MART', 'Martinique', 1128, 399151, 3950, 'Fort-de-France_Martinique_MART').
+country('MNTS', 'Montserrat', 102, 5097, 29, 'Plymouth_Montserrat_MNTS').
+country('NA', 'Netherlands Antilles', 960, 227049, 2800, 'Willemstad_Netherlands Antilles_NA').
+country('SMAR', 'Saint Martin', 54, 29820, null, 'Marigot_Saint Martin_SMAR').
+country('CO', 'Colombia', 1138910, 36813161, 192500, 'Bogota_Santa Fe de Bogota, DC_CO').
+country('PR', 'Puerto Rico', 8870, 3971020, 88000, 'San Juan_Puerto Rico_PR').
+country('KN', 'Saint Kitts and Nevis', 269, 41369, 220, 'Basseterre_Saint Kitts and Nevis_KN').
+country('WL', 'Saint Lucia', 620, 157862, 640, 'Castries_Saint Lucia_WL').
+country('SPMI', 'Saint Pierre and Miquelon', 242, 6809, 68, 'Saint-Pierre_Saint Pierre and Miquelon_SPMI').
+country('WV', 'Saint Vincent and the Grenadines', 389, 118344, 240, 'Kingstown_Saint Vincent and the Grenadines_WV').
+country('TT', 'Trinidad and Tobago', 5130, 1272385, 16200, 'Port-of-Spain_Trinidad and Tobago_TT').
+country('TUCA', 'Turks and Caicos Islands', 430, 22942, 216, 'Grand Turk_Turks and Caicos Islands_TUCA').
+country('VIRG', 'Virgin Islands', 352, 97120, 1200, 'Charlotte Amalie_Virgin Islands_VIRG').
+country('AMSA', 'American Samoa', 199, 65628, 462.2, 'Pago Pago_American Samoa_AMSA').
+country('AUS', 'Australia', 7686850, 18260863, 405400, 'Canberra_Australia Capital Territory_AUS').
+country('COOK', 'Cook Islands', 240, 11870, 183.2, 'Avarua_Cook Islands_COOK').
+country('FJI', 'Fiji', 18270, 782381, 4700, 'Suva_Fiji_FJI').
+country('FPOL', 'French Polynesia', 4167, 287032, 6100, 'Papeete_French Polynesia_FPOL').
+country('GUAM', 'Guam', 541.3, 178430, 2500, 'Agana_Guam_GUAM').
+country('KIR', 'Kiribati', 717, 80919, 68, 'Tarawa_Kiribati_KIR').
+country('MH', 'Marshall Islands', 181.3, 58363, 94, 'Majuro_Marshall Islands_MH').
+country('FSM', 'Micronesia', 702, 125377, 205, 'Palikir_Micronesia_FSM').
+country('NAU', 'Nauru', 21, 10273, 100, 'Yaren_Nauru_NAU').
+country('NCA', 'New Caledonia', 19060, 227436, 3158, 'Noumea_New Caledonia_NCA').
+country('NZ', 'New Zealand', 268680, 3547983, 62300, 'Wellington_New Zealand_NZ').
+country('NIUE', 'Niue', 260, 1398, 10.01, 'Alofi_Niue_NIUE').
+country('NORF', 'Norfolk Island', 34.6, 2209, null, 'Kingston_Norfolk Island_NORF').
+country('NMIS', 'Northern Mariana Islands', 477, 88662, 633.4, 'Saipan_Northern Mariana Islands_NMIS').
+country('PAL', 'Palau', 458, 16952, 81.8, 'Melekeok_Palau_PAL').
+country('PITC', 'Pitcairn Islands', 47, 48, null, 'Adamstown_Pitcairn Islands_PITC').
+country('SLB', 'Solomon Islands', 28450, 412902, 1000, 'Honiara_Solomon Islands_SLB').
+country('TO', 'Tonga', 748, 106466, 228, 'Nukualofa_Tonga_TO').
+country('TUV', 'Tuvalu', 26, 10146, 7.8, 'Funafuti_Tuvalu_TUV').
+country('VU', 'Vanuatu', 14760, 177504, 210, 'Port-Vila_Vanuatu_VU').
+country('WAFU', 'Wallis and Futuna', 274, 15289, 60, 'Mata-Utu_Wallis and Futuna_WAFU').
+country('WS', 'Samoa', 2860, 214384, 415, 'Apia_Samoa_WS').
+country('RA', 'Argentina', 2766890, 34672997, 278500, 'Buenos Aires_Distrito Federal_RA').
+country('BOL', 'Bolivia', 1098580, 7165257, 20000, 'La Paz_Bolivia_BOL').
+country('BR', 'Brazil', 8511965, 162661214, 976800, 'Brasilia_Distrito Federal_BR').
+country('RCH', 'Chile', 756950, 14333258, 113200, 'Santiago_Chile_RCH').
+country('PY', 'Paraguay', 406750, 5504146, 17000, 'Asuncion_Paraguay_PY').
+country('ROU', 'Uruguay', 176220, 3238952, 24400, 'Montevideo_Uruguay_ROU').
+country('PE', 'Peru', 1285220, 24523408, 87000, 'Lima_Lima_PE').
+country('FGU', 'French Guiana', 91000, 151187, 800, 'Cayenne_French Guiana_FGU').
+country('GUY', 'Guyana', 214970, 712091, 1600, 'Georgetown_Guyana_GUY').
+country('SME', 'Suriname', 163270, 436418, 1300, 'Paramaribo_Suriname_SME').
+country('YV', 'Venezuela', 912050, 21983188, 195500, 'Caracas_Distrito Federal_YV').
+country('EC', 'Ecuador', 283560, 11466291, 44600, 'Quito_Ecuador_EC').
+country('FALK', 'Falkland Islands', 12173, 3140, 105.1, 'Stanley_Falkland Islands_FALK').
+country('DZ', 'Algeria', 2381740, 29183032, 108700, 'Algier_Algeria_DZ').
+country('LAR', 'Libya', 1759540, 5445436, 32900, 'Tripoli_Libya_LAR').
+country('RMM', 'Mali', 1240000, 9653261, 5400, 'Bamako_Mali_RMM').
+country('RIM', 'Mauritania', 1030700, 2336048, 2800, 'Nouakchott_Mauritania_RIM').
+country('MA', 'Morocco', 446550, 29779156, 87400, 'Rabat_Morocco_MA').
+country('RN', 'Niger', 1267000, 9113001, 5500, 'Niamey_Niger_RN').
+country('TN', 'Tunisia', 163610, 9019687, 37100, 'Tunis_Tunisia_TN').
+country('WSA', 'Western Sahara', 266000, 222631, null, 'El Aaiun_Western Sahara_WSA').
+country('ANG', 'Angola', 1246700, 10342899, 7400, 'Luanda_Luanda_ANG').
+country('RCB', 'Congo', 342000, 2527841, 7700, 'Brazzaville_Congo_RCB').
+country('NAM', 'Namibia', 825418, 1677243, 5800, 'Windhoek_Namibia_NAM').
+country('ZRE', 'Zaire', 2345410, 46498539, 16500, 'Kinshasa_Kinshasa_ZRE').
+country('Z', 'Zambia', 752610, 9159072, 8900, 'Lusaka_Lusaka_Z').
+country('BEN', 'Benin', 112620, 5709529, 7600, 'Porto-Novo_Benin_BEN').
+country('BF', 'Burkina Faso', 274200, 10623323, 7400, 'Ouagadougou_Burkina Faso_BF').
+country('WAN', 'Nigeria', 923770, 103912489, 135900, 'Abuja_Nigeria_WAN').
+country('RT', 'Togo', 56790, 4570530, 4100, 'Lome_Togo_RT').
+country('RB', 'Botswana', 600370, 1477630, 4500, 'Gaborone_Botswana_RB').
+country('RSA', 'South Africa', 1219912, 41743459, 215000, 'Pretoria_Gauteng_RSA').
+country('ZW', 'Zimbabwe', 390580, 11271314, 18100, 'Harare_Zimbabwe_ZW').
+country('CI', 'Cote dIvoire', 322460, 14762445, 21900, 'Yamoussoukro_Cote dIvoire_CI').
+country('GH', 'Ghana', 238540, 17698271, 25100, 'Accra_Ghana_GH').
+country('BI', 'Burundi', 27830, 5943057, 4000, 'Bujumbura_Burundi_BI').
+country('RWA', 'Rwanda', 26340, 6853359, 3800, 'Kigali_Rwanda_RWA').
+country('EAT', 'Tanzania', 945090, 29058470, 23100, 'Dar es Salaam_Daressalam_EAT').
+country('CAM', 'Cameroon', 475440, 14261557, 16500, 'Yaounde_Centre_CAM').
+country('RCA', 'Central African Republic', 622980, 3274426, 2500, 'Bangui_Central African Republic_RCA').
+country('TCH', 'Chad', 1284000, 6976845, 3300, 'NDjamena_Chad_TCH').
+country('GQ', 'Equatorial Guinea', 28050, 431282, 325, 'Malabo_Equatorial Guinea_GQ').
+country('G', 'Gabon', 267670, 1172798, 6000, 'Libreville_Gabon_G').
+country('CV', 'Cape Verde', 4030, 449066, 440, 'Praia_Cape Verde_CV').
+country('SUD', 'Sudan', 2505810, 31547543, 25000, 'Khartoum_al Khartum_SUD').
+country('COM', 'Comoros', 2170, 569237, 370, 'Moroni_Comoros_COM').
+country('RG', 'Guinea', 245860, 7411981, 6500, 'Conakry_Guinea_RG').
+country('LB', 'Liberia', 111370, 2109789, 2300, 'Monrovia_Liberia_LB').
+country('DJI', 'Djibouti', 22000, 427642, 500, 'Djibouti_Djibouti_DJI').
+country('ER', 'Eritrea', 121320, 3427883, 2000, 'Asmara_Eritrea_ER').
+country('ETH', 'Ethiopia', 1127127, 57171662, 24200, 'Addis Ababa_Ethiopia_ETH').
+country('SP', 'Somalia', 637660, 9639151, 3600, 'Mogadishu_Somalia_SP').
+country('EAK', 'Kenya', 582650, 28176686, 36800, 'Nairobi_Nairobi_EAK').
+country('WAG', 'Gambia', 11300, 1204984, 1100, 'Banjul_Gambia_WAG').
+country('SN', 'Senegal', 196190, 9092749, 14500, 'Dakar_Dakar_SN').
+country('GNB', 'Guinea-Bissau', 36120, 1151330, 1000, 'Bissau_Guinea-Bissau_GNB').
+country('WAL', 'Sierra Leone', 71740, 4793121, 4400, 'Freetown_Sierra Leone_WAL').
+country('EAU', 'Uganda', 236040, 20158176, 16800, 'Kampala_Uganda_EAU').
+country('LS', 'Lesotho', 30350, 1970781, 2800, 'Maseru_Lesotho_LS').
+country('RM', 'Madagascar', 587041, 13670507, 11400, 'Antananarivo_Antananarivo_RM').
+country('MW', 'Malawi', 118480, 9452844, 6900, 'Lilongwe_Malawi_MW').
+country('MOC', 'Mozambique', 801590, 17877927, 12200, 'Maputo_Maputo (munic.)_MOC').
+country('MS', 'Mauritius', 2040, 1140256, 10900, 'Port Louis_Mauritius_MS').
+country('MAYO', 'Mayotte', 374, 223765, 953.6, 'Mamoutzou_Mayotte_MAYO').
+country('SD', 'Swaziland', 17360, 998730, 3600, 'Mbabane_Swaziland_SD').
+country('REUN', 'Reunion', 2510, 679198, 2900, 'Saint-Denis_Reunion_REUN').
+country('HELX', 'Saint Helena', 413, 7637, 18, 'Jamestown_Saint Helena_HELX').
+country('STP', 'Sao Tome and Principe', 1001, 144128, 138, 'Sao Tome_Sao Tome and Principe_STP').
+country('SY', 'Seychelles', 455, 77575, 430, 'Victoria_Seychelles_SY').
+country_religion('AL', 'Muslim').
+country_religion('AL', 'Roman Catholic').
+country_religion('AL', 'Christian Orthodox').
+country_religion('GR', 'Muslim').
+country_religion('GR', 'Christian Orthodox').
+country_religion('MK', 'Muslim').
+country_religion('MK', 'Christian Orthodox').
+country_religion('SRB', 'Christian Orthodox').
+country_religion('SRB', 'Muslim').
+country_religion('SRB', 'Roman Catholic').
+country_religion('SRB', 'Protestant').
+country_religion('MNE', 'Christian Orthodox').
+country_religion('MNE', 'Muslim').
+country_religion('MNE', 'Roman Catholic').
+country_religion('AND', 'Roman Catholic').
+country_religion('F', 'Muslim').
+country_religion('F', 'Jewish').
+country_religion('F', 'Roman Catholic').
+country_religion('F', 'Protestant').
+country_religion('E', 'Roman Catholic').
+country_religion('A', 'Roman Catholic').
+country_religion('A', 'Protestant').
+country_religion('CZ', 'Roman Catholic').
+country_religion('CZ', 'Protestant').
+country_religion('CZ', 'Christian Orthodox').
+country_religion('D', 'Roman Catholic').
+country_religion('D', 'Protestant').
+country_religion('H', 'Roman Catholic').
+country_religion('H', 'Protestant').
+country_religion('I', 'Roman Catholic').
+country_religion('FL', 'Roman Catholic').
+country_religion('FL', 'Protestant').
+country_religion('SK', 'Roman Catholic').
+country_religion('SK', 'Protestant').
+country_religion('SK', 'Christian Orthodox').
+country_religion('SLO', 'Muslim').
+country_religion('SLO', 'Roman Catholic').
+country_religion('CH', 'Roman Catholic').
+country_religion('CH', 'Protestant').
+country_religion('BY', 'Christian Orthodox').
+country_religion('PL', 'Roman Catholic').
+country_religion('B', 'Roman Catholic').
+country_religion('B', 'Protestant').
+country_religion('L', 'Roman Catholic').
+country_religion('L', 'Jewish').
+country_religion('NL', 'Muslim').
+country_religion('NL', 'Roman Catholic').
+country_religion('NL', 'Protestant').
+country_religion('BIH', 'Muslim').
+country_religion('BIH', 'Protestant').
+country_religion('BIH', 'Christian Orthodox').
+country_religion('BIH', 'Roman Catholic').
+country_religion('HR', 'Protestant').
+country_religion('HR', 'Christian Orthodox').
+country_religion('HR', 'Roman Catholic').
+country_religion('HR', 'Muslim').
+country_religion('BG', 'Muslim').
+country_religion('BG', 'Jewish').
+country_religion('BG', 'Roman Catholic').
+country_religion('BG', 'Christian Orthodox').
+country_religion('RO', 'Roman Catholic').
+country_religion('RO', 'Protestant').
+country_religion('RO', 'Christian Orthodox').
+country_religion('TR', 'Muslim').
+country_religion('DK', 'Protestant').
+country_religion('DK', 'Roman Catholic').
+country_religion('FARX', 'Protestant').
+country_religion('SF', 'Christian Orthodox').
+country_religion('SF', 'Protestant').
+country_religion('N', 'Protestant').
+country_religion('N', 'Roman Catholic').
+country_religion('S', 'Roman Catholic').
+country_religion('S', 'Protestant').
+country_religion('S', 'Pentecostal').
+country_religion('MC', 'Roman Catholic').
+country_religion('GBZ', 'Muslim').
+country_religion('GBZ', 'Jewish').
+country_religion('GBZ', 'Roman Catholic').
+country_religion('GBZ', 'Protestant').
+country_religion('V', 'Roman Catholic').
+country_religion('IS', 'Protestant').
+country_religion('IS', 'Roman Catholic').
+country_religion('IRL', 'Roman Catholic').
+country_religion('IRL', 'Anglican').
+country_religion('RSM', 'Roman Catholic').
+country_religion('M', 'Roman Catholic').
+country_religion('MD', 'Jewish').
+country_religion('MD', 'Christian Orthodox').
+country_religion('P', 'Roman Catholic').
+country_religion('P', 'Protestant').
+country_religion('AFG', 'Muslim').
+country_religion('TJ', 'Muslim').
+country_religion('TJ', 'Christian').
+country_religion('IR', 'Muslim').
+country_religion('IR', 'Bahai').
+country_religion('PK', 'Muslim').
+country_religion('TAD', 'Muslim').
+country_religion('TM', 'Muslim').
+country_religion('TM', 'Christian Orthodox').
+country_religion('UZB', 'Muslim').
+country_religion('UZB', 'Christian Orthodox').
+country_religion('ARM', 'Christian Orthodox').
+country_religion('GE', 'Muslim').
+country_religion('GE', 'Armenian Apostolic').
+country_religion('GE', 'Christian Orthodox').
+country_religion('AZ', 'Muslim').
+country_religion('AZ', 'Christian Orthodox').
+country_religion('BRN', 'Muslim').
+country_religion('BD', 'Muslim').
+country_religion('BD', 'Hindu').
+country_religion('MYA', 'Muslim').
+country_religion('MYA', 'Christian').
+country_religion('MYA', 'Buddhist').
+country_religion('IND', 'Muslim').
+country_religion('IND', 'Christian').
+country_religion('IND', 'Buddhist').
+country_religion('IND', 'Hindu').
+country_religion('IND', 'Sikh').
+country_religion('IND', 'Jains').
+country_religion('BHT', 'Buddhist').
+country_religion('BHT', 'Hindu').
+country_religion('BRU', 'Muslim').
+country_religion('BRU', 'Christian').
+country_religion('BRU', 'Buddhist').
+country_religion('LAO', 'Buddhist').
+country_religion('THA', 'Muslim').
+country_religion('THA', 'Buddhist').
+country_religion('THA', 'Christian').
+country_religion('THA', 'Hindu').
+country_religion('K', 'Buddhist').
+country_religion('KAZ', 'Muslim').
+country_religion('KAZ', 'Protestant').
+country_religion('KAZ', 'Christian Orthodox').
+country_religion('HONX', 'Christian').
+country_religion('MACX', 'Roman Catholic').
+country_religion('MACX', 'Protestant').
+country_religion('MACX', 'Buddhist').
+country_religion('MNG', 'Muslim').
+country_religion('NEP', 'Muslim').
+country_religion('NEP', 'Buddhist').
+country_religion('NEP', 'Hindu').
+country_religion('XMAS', 'Muslim').
+country_religion('XMAS', 'Christian').
+country_religion('XMAS', 'Buddhist').
+country_religion('COCO', 'Muslim').
+country_religion('COCO', 'Christian').
+country_religion('CY', 'Muslim').
+country_religion('CY', 'Christian Orthodox').
+country_religion('GAZA', 'Muslim').
+country_religion('GAZA', 'Jewish').
+country_religion('GAZA', 'Christian').
+country_religion('IL', 'Christian').
+country_religion('IL', 'Muslim').
+country_religion('IL', 'Druze').
+country_religion('IL', 'Judaism').
+country_religion('ET', 'Muslim').
+country_religion('ET', 'Coptic Christian').
+country_religion('RI', 'Muslim').
+country_religion('RI', 'Roman Catholic').
+country_religion('RI', 'Protestant').
+country_religion('RI', 'Buddhist').
+country_religion('RI', 'Hindu').
+country_religion('TL', 'Muslim').
+country_religion('TL', 'Protestant').
+country_religion('TL', 'Roman Catholic').
+country_religion('PNG', 'Roman Catholic').
+country_religion('PNG', 'Protestant').
+country_religion('PNG', 'Anglican').
+country_religion('PNG', 'Seventh-Day Adventist').
+country_religion('PNG', 'Presbyterian').
+country_religion('PNG', 'Evangelical Alliance').
+country_religion('IRQ', 'Muslim').
+country_religion('IRQ', 'Christian').
+country_religion('JOR', 'Muslim').
+country_religion('JOR', 'Christian').
+country_religion('KWT', 'Muslim').
+country_religion('SA', 'Muslim').
+country_religion('SYR', 'Muslim').
+country_religion('SYR', 'Christian').
+country_religion('RL', 'Christian').
+country_religion('RL', 'Muslim').
+country_religion('WEST', 'Muslim').
+country_religion('WEST', 'Jewish').
+country_religion('WEST', 'Christian').
+country_religion('J', 'Buddhist').
+country_religion('ROK', 'Buddhist').
+country_religion('ROK', 'Christian').
+country_religion('ROK', 'Confucianism').
+country_religion('ROK', 'Chondogyo').
+country_religion('MV', 'Muslim').
+country_religion('OM', 'Muslim').
+country_religion('UAE', 'Muslim').
+country_religion('RP', 'Muslim').
+country_religion('RP', 'Roman Catholic').
+country_religion('RP', 'Protestant').
+country_religion('RP', 'Buddhist').
+country_religion('Q', 'Muslim').
+country_religion('CL', 'Muslim').
+country_religion('CL', 'Christian').
+country_religion('CL', 'Buddhist').
+country_religion('CL', 'Hindu').
+country_religion('RC', 'Christian').
+country_religion('RC', 'Taoist').
+country_religion('AXA', 'Roman Catholic').
+country_religion('AXA', 'Protestant').
+country_religion('AXA', 'Anglican').
+country_religion('AXA', 'Methodist').
+country_religion('ARU', 'Roman Catholic').
+country_religion('ARU', 'Protestant').
+country_religion('BS', 'Roman Catholic').
+country_religion('BS', 'Protestant').
+country_religion('BS', 'Anglican').
+country_religion('BS', 'Baptist').
+country_religion('BS', 'Methodist').
+country_religion('BS', 'Church of God').
+country_religion('BDS', 'Roman Catholic').
+country_religion('BDS', 'Protestant').
+country_religion('BZ', 'Roman Catholic').
+country_religion('BZ', 'Protestant').
+country_religion('MEX', 'Roman Catholic').
+country_religion('MEX', 'Protestant').
+country_religion('BERM', 'Roman Catholic').
+country_religion('BERM', 'Anglican').
+country_religion('BERM', 'Seventh-Day Adventist').
+country_religion('BERM', 'Protestant').
+country_religion('BERM', 'African Methodist Episcopal').
+country_religion('BVIR', 'Roman Catholic').
+country_religion('BVIR', 'Protestant').
+country_religion('CDN', 'Roman Catholic').
+country_religion('CDN', 'Anglican').
+country_religion('CDN', 'United Church').
+country_religion('USA', 'Jewish').
+country_religion('USA', 'Roman Catholic').
+country_religion('USA', 'Protestant').
+country_religion('CAYM', 'Roman Catholic').
+country_religion('CAYM', 'Anglican').
+country_religion('CAYM', 'Church of God').
+country_religion('CAYM', 'United Church').
+country_religion('CR', 'Roman Catholic').
+country_religion('NIC', 'Roman Catholic').
+country_religion('NIC', 'Protestant').
+country_religion('PA', 'Roman Catholic').
+country_religion('PA', 'Protestant').
+country_religion('C', 'Roman Catholic').
+country_religion('WD', 'Roman Catholic').
+country_religion('WD', 'Protestant').
+country_religion('DOM', 'Roman Catholic').
+country_religion('RH', 'Roman Catholic').
+country_religion('RH', 'Protestant').
+country_religion('ES', 'Roman Catholic').
+country_religion('HCA', 'Roman Catholic').
+country_religion('GROX', 'Protestant').
+country_religion('GUAD', 'Roman Catholic').
+country_religion('GUAD', 'Protestant').
+country_religion('GUAD', 'Hindu').
+country_religion('JA', 'Roman Catholic').
+country_religion('JA', 'Protestant').
+country_religion('MART', 'Roman Catholic').
+country_religion('MART', 'Hindu').
+country_religion('CO', 'Roman Catholic').
+country_religion('PR', 'Roman Catholic').
+country_religion('PR', 'Protestant').
+country_religion('WL', 'Roman Catholic').
+country_religion('WL', 'Protestant').
+country_religion('WL', 'Anglican').
+country_religion('SPMI', 'Roman Catholic').
+country_religion('TT', 'Muslim').
+country_religion('TT', 'Roman Catholic').
+country_religion('TT', 'Protestant').
+country_religion('TT', 'Anglican').
+country_religion('TT', 'Hindu').
+country_religion('TUCA', 'Anglican').
+country_religion('TUCA', 'Baptist').
+country_religion('TUCA', 'Church of God').
+country_religion('TUCA', 'Methodist').
+country_religion('VIRG', 'Roman Catholic').
+country_religion('VIRG', 'Baptist').
+country_religion('VIRG', 'Episcopalian').
+country_religion('AMSA', 'Roman Catholic').
+country_religion('AMSA', 'Protestant').
+country_religion('AMSA', 'Christian Congregationalist').
+country_religion('AUS', 'Roman Catholic').
+country_religion('AUS', 'Anglican').
+country_religion('AUS', 'Christian').
+country_religion('COOK', 'Christian').
+country_religion('FJI', 'Muslim').
+country_religion('FJI', 'Christian').
+country_religion('FJI', 'Hindu').
+country_religion('FPOL', 'Roman Catholic').
+country_religion('FPOL', 'Protestant').
+country_religion('GUAM', 'Roman Catholic').
+country_religion('KIR', 'Roman Catholic').
+country_religion('KIR', 'Protestant').
+country_religion('KIR', 'Mormon').
+country_religion('MH', 'Christian').
+country_religion('FSM', 'Roman Catholic').
+country_religion('FSM', 'Protestant').
+country_religion('NAU', 'Christian').
+country_religion('NCA', 'Roman Catholic').
+country_religion('NCA', 'Protestant').
+country_religion('NZ', 'Roman Catholic').
+country_religion('NZ', 'Protestant').
+country_religion('NZ', 'Anglican').
+country_religion('NZ', 'Baptist').
+country_religion('NZ', 'Methodist').
+country_religion('NZ', 'Presbyterian').
+country_religion('NIUE', 'Mormon').
+country_religion('NIUE', 'Ekalesia Niue').
+country_religion('NIUE', 'Roman Catholic').
+country_religion('NORF', 'Roman Catholic').
+country_religion('NORF', 'Anglican').
+country_religion('NORF', 'Seventh-Day Adventist').
+country_religion('NORF', 'Uniting Church Australia').
+country_religion('PITC', 'Seventh-Day Adventist').
+country_religion('SLB', 'Roman Catholic').
+country_religion('SLB', 'Protestant').
+country_religion('SLB', 'Anglican').
+country_religion('SLB', 'Baptist').
+country_religion('SLB', 'Seventh-Day Adventist').
+country_religion('SLB', 'United').
+country_religion('TO', 'Christian').
+country_religion('TUV', 'Bahai').
+country_religion('TUV', 'Seventh-Day Adventist').
+country_religion('TUV', 'Church Tuvalu').
+country_religion('VU', 'Roman Catholic').
+country_religion('VU', 'Anglican').
+country_religion('VU', 'Seventh-Day Adventist').
+country_religion('VU', 'Presbyterian').
+country_religion('VU', 'Church Christ').
+country_religion('WAFU', 'Roman Catholic').
+country_religion('WS', 'Christian').
+country_religion('RA', 'Jewish').
+country_religion('RA', 'Roman Catholic').
+country_religion('RA', 'Protestant').
+country_religion('BOL', 'Roman Catholic').
+country_religion('BR', 'Roman Catholic').
+country_religion('RCH', 'Roman Catholic').
+country_religion('RCH', 'Protestant').
+country_religion('PY', 'Roman Catholic').
+country_religion('ROU', 'Jewish').
+country_religion('ROU', 'Roman Catholic').
+country_religion('ROU', 'Protestant').
+country_religion('PE', 'Roman Catholic').
+country_religion('FGU', 'Roman Catholic').
+country_religion('GUY', 'Muslim').
+country_religion('GUY', 'Christian').
+country_religion('GUY', 'Hindu').
+country_religion('SME', 'Muslim').
+country_religion('SME', 'Roman Catholic').
+country_religion('SME', 'Protestant').
+country_religion('SME', 'Hindu').
+country_religion('YV', 'Roman Catholic').
+country_religion('YV', 'Protestant').
+country_religion('EC', 'Roman Catholic').
+country_religion('DZ', 'Muslim').
+country_religion('DZ', 'Christian').
+country_religion('DZ', 'Jewish').
+country_religion('LAR', 'Muslim').
+country_religion('RMM', 'Muslim').
+country_religion('RMM', 'Christian').
+country_religion('RIM', 'Muslim').
+country_religion('MA', 'Muslim').
+country_religion('MA', 'Jewish').
+country_religion('MA', 'Christian').
+country_religion('RN', 'Muslim').
+country_religion('TN', 'Muslim').
+country_religion('TN', 'Jewish').
+country_religion('TN', 'Christian').
+country_religion('WSA', 'Muslim').
+country_religion('ANG', 'Roman Catholic').
+country_religion('ANG', 'Protestant').
+country_religion('RCB', 'Muslim').
+country_religion('RCB', 'Christian').
+country_religion('NAM', 'Protestant').
+country_religion('ZRE', 'Muslim').
+country_religion('ZRE', 'Roman Catholic').
+country_religion('ZRE', 'Protestant').
+country_religion('ZRE', 'Kimbanguist').
+country_religion('Z', 'Christian').
+country_religion('Z', 'Muslim').
+country_religion('BEN', 'Muslim').
+country_religion('BEN', 'Christian').
+country_religion('BF', 'Muslim').
+country_religion('BF', 'Christian').
+country_religion('WAN', 'Muslim').
+country_religion('WAN', 'Christian').
+country_religion('RT', 'Muslim').
+country_religion('RT', 'Christian').
+country_religion('RB', 'Christian').
+country_religion('RSA', 'Muslim').
+country_religion('ZW', 'Muslim').
+country_religion('ZW', 'Christian').
+country_religion('CI', 'Muslim').
+country_religion('CI', 'Christian').
+country_religion('GH', 'Muslim').
+country_religion('GH', 'Christian').
+country_religion('BI', 'Muslim').
+country_religion('BI', 'Christian').
+country_religion('RWA', 'Muslim').
+country_religion('RWA', 'Roman Catholic').
+country_religion('RWA', 'Protestant').
+country_religion('CAM', 'Muslim').
+country_religion('CAM', 'Christian').
+country_religion('RCA', 'Muslim').
+country_religion('RCA', 'Roman Catholic').
+country_religion('RCA', 'Protestant').
+country_religion('TCH', 'Muslim').
+country_religion('TCH', 'Christian').
+country_religion('GQ', 'Roman Catholic').
+country_religion('G', 'Muslim').
+country_religion('G', 'Christian').
+country_religion('CV', 'Roman Catholic').
+country_religion('SUD', 'Muslim').
+country_religion('SUD', 'Christian').
+country_religion('COM', 'Roman Catholic').
+country_religion('COM', 'Muslim').
+country_religion('RG', 'Muslim').
+country_religion('RG', 'Christian').
+country_religion('LB', 'Muslim').
+country_religion('LB', 'Christian').
+country_religion('DJI', 'Muslim').
+country_religion('DJI', 'Christian').
+country_religion('ETH', 'Muslim').
+country_religion('ETH', 'Christian Orthodox').
+country_religion('SP', 'Muslim').
+country_religion('EAK', 'Roman Catholic').
+country_religion('EAK', 'Protestant').
+country_religion('WAG', 'Muslim').
+country_religion('WAG', 'Christian').
+country_religion('SN', 'Muslim').
+country_religion('SN', 'Christian').
+country_religion('GNB', 'Muslim').
+country_religion('GNB', 'Christian').
+country_religion('WAL', 'Muslim').
+country_religion('WAL', 'Christian').
+country_religion('EAU', 'Muslim').
+country_religion('EAU', 'Roman Catholic').
+country_religion('EAU', 'Protestant').
+country_religion('LS', 'Christian').
+country_religion('RM', 'Muslim').
+country_religion('RM', 'Christian').
+country_religion('MW', 'Muslim').
+country_religion('MW', 'Roman Catholic').
+country_religion('MW', 'Protestant').
+country_religion('MOC', 'Muslim').
+country_religion('MOC', 'Christian').
+country_religion('MS', 'Muslim').
+country_religion('MS', 'Christian').
+country_religion('MS', 'Hindu').
+country_religion('MAYO', 'Muslim').
+country_religion('SD', 'Christian').
+country_religion('REUN', 'Roman Catholic').
+country_religion('SY', 'Roman Catholic').
+country_religion('SY', 'Anglican').
+udef_religion('Roman Catholic').
+udef_religion('Protestant').
+udef_religion('Anglican').
+udef_religion('Baptist').
+udef_religion('Methodist').
+udef_religion('Presbyterian').

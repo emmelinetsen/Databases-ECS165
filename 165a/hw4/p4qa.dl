@@ -1,0 +1,1 @@
+grandparent(C,G) :- parent(C,P), parent(P,G). 

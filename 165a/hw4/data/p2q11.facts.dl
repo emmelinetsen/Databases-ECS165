@@ -1,0 +1,119 @@
+river_into_lake('Lagen', 'Mjoesa-See').
+river_into_lake('Klaraelv', 'Vaenern').
+river_into_lake('Umeaelv', 'Storuman').
+river_into_lake('Oesterdalaelv', 'Siljan').
+river_into_lake('Vuoksi', 'Ozero Ladoga').
+river_into_lake('Rhone', 'Lac Leman').
+river_into_lake('Ticino', 'Lago Maggiore').
+river_into_lake('Adda', 'Lago di Como').
+river_into_lake('Ammer', 'Ammersee').
+river_into_lake('Wurm', 'Starnberger See').
+river_into_lake('Alz', 'Chiemsee').
+river_into_lake('Rhein', 'Bodensee').
+river_into_lake('Aare', 'Brienzersee').
+river_into_lake('Reuss', 'Vierwaldstattersee').
+river_into_lake('Jordan', 'Dead Sea').
+river_into_lake('Kura', 'Caspian Sea').
+river_into_lake('Murat', 'Lake Keban').
+river_into_lake('Karasu', 'Lake Keban').
+river_into_lake('Swir', 'Ozero Ladoga').
+river_into_lake('Volga', 'Caspian Sea').
+river_into_lake('Ural', 'Caspian Sea').
+river_into_lake('Angara', 'Ozero Baikal').
+river_into_lake('Syrdarja', 'Ozero Aral').
+river_into_lake('Amudarja', 'Ozero Aral').
+river_into_lake('Saskatchewan River', 'Lake Winnipeg').
+river_into_lake('Niagara River', 'Lake Ontario').
+river_into_lake('Detroit River', 'Lake Erie').
+river_into_lake('Missouri', 'Fort Peck Lake').
+river_into_lake('Tennessee', 'Chickamauga Lake').
+river_into_lake('Columbia River', 'Franklin. D. Roosevelt Lake').
+river_into_lake('Truckee River', 'Pyramid Lake').
+river_into_lake('Colorado', 'Lake Powell').
+river_into_lake('Rio Lerma', 'Lago de Chapala').
+river_into_lake('Rio San Juan', 'Lake Managua').
+river_into_lake('Rio Desaguadero', 'Poopo').
+river_into_lake('Rio Sao Francisco', 'Lago de Sobradinho').
+river_into_lake('Volta', 'Lake Volta').
+river_into_lake('Niger', 'Lake Kainji').
+river_into_lake('Schari', 'Chad Lake').
+river_into_lake('Nile', 'Lake Nasser').
+river_into_lake('Semliki', 'Lake Sese Seko/Albertsee').
+river_into_lake('Victoria Nile', 'Lake Sese Seko/Albertsee').
+river_into_lake('Akagera', 'Lake Victoria').
+river_into_lake('Sanaga', 'Barrage de Mbakaou').
+river_into_lake('Ruzizi', 'Lake Tanganjika').
+river_into_lake('Luapula', 'Lake Mweru').
+river_into_lake('Zambezi', 'Lake Kariba').
+river_into_lake('Murray River', 'Lake Hume').
+river_into_lake('Murrumbidgee River', 'Lake Burley Griffin').
+river_from_lake('Paatsjoki', 'Inari').
+river_from_lake('Oulujoki', 'Oulujaervi').
+river_from_lake('Vuoksi', 'Kallavesi').
+river_from_lake('Vuoksi', 'Saimaa').
+river_from_lake('Kymijoki', 'Paeijaenne').
+river_from_lake('Lagen', 'Mjoesa-See').
+river_from_lake('Umeaelv', 'Storuman').
+river_from_lake('Oesterdalaelv', 'Siljan').
+river_from_lake('Goetaaelv', 'Vaenern').
+river_from_lake('Rhein', 'Bodensee').
+river_from_lake('Alz', 'Chiemsee').
+river_from_lake('Wurm', 'Starnberger See').
+river_from_lake('Ammer', 'Ammersee').
+river_from_lake('Rhone', 'Lac Leman').
+river_from_lake('Limmat', 'Zurichsee').
+river_from_lake('Aare', 'Thunersee').
+river_from_lake('Aare', 'Brienzersee').
+river_from_lake('Reuss', 'Vierwaldstattersee').
+river_from_lake('Mincio', 'Lago di Garda ').
+river_from_lake('Ticino', 'Lago Maggiore').
+river_from_lake('Adda', 'Lago di Como').
+river_from_lake('Black Drin', 'Lake Ohrid').
+river_from_lake('Jordan', 'Lake Genezareth').
+river_from_lake('Euphrat', 'Lake Keban').
+river_from_lake('Asahan', 'Lake Toba').
+river_from_lake('Newa', 'Ozero Ladoga').
+river_from_lake('Swir', 'Ozero Onega').
+river_from_lake('Narva', 'Ozero Pskovskoje').
+river_from_lake('Angara', 'Ozero Baikal').
+river_from_lake('Nile', 'Lake Nasser').
+river_from_lake('Volta', 'Lake Volta').
+river_from_lake('Niger', 'Lake Kainji').
+river_from_lake('Sanaga', 'Barrage de Mbakaou').
+river_from_lake('Blue Nile', 'Lake Tana').
+river_from_lake('Bahr el-Djebel/Albert-Nil', 'Lake Sese Seko/Albertsee').
+river_from_lake('Semliki', 'Rutanzige/Eduardsee').
+river_from_lake('Victoria Nile', 'Lake Kioga').
+river_from_lake('Victoria Nile', 'Lake Victoria').
+river_from_lake('Ruzizi', 'Lake Kivu').
+river_from_lake('Lukuga', 'Lake Tanganjika').
+river_from_lake('Luvua', 'Lake Mweru').
+river_from_lake('Luapula', 'Lake Bangweulu').
+river_from_lake('Chire', 'Lake Malawi').
+river_from_lake('Fimi', 'Lake Mai Ndombe').
+river_from_lake('Zambezi', 'Lake Cabora-Bassa').
+river_from_lake('Zambezi', 'Lake Kariba').
+river_from_lake('Mackenzie River', 'Great Slave Lake').
+river_from_lake('Yukon River', 'Atlin Lake').
+river_from_lake('Nelson River', 'Lake Winnipeg').
+river_from_lake('Saint Lawrence River', 'Lake Ontario').
+river_from_lake('Niagara River', 'Lake Erie').
+river_from_lake('Detroit River', 'Lake Huron').
+river_from_lake('Riviere Richelieu', 'Lake Champlain').
+river_from_lake('Merrimack River', 'Lake Winnipesaukee').
+river_from_lake('Tennessee', 'Kentucky Lake').
+river_from_lake('Tennessee', 'Chickamauga Lake').
+river_from_lake('Columbia River', 'Franklin. D. Roosevelt Lake').
+river_from_lake('Truckee River', 'Lake Tahoe').
+river_from_lake('Colorado', 'Lake Powell').
+river_from_lake('Colorado', 'Lake Mead').
+river_from_lake('Missouri', 'Fort Peck Lake').
+river_from_lake('Missouri', 'Lake Sakakawea').
+river_from_lake('Missouri', 'Lake Oahe').
+river_from_lake('Rio Lerma', 'Lago de Chapala').
+river_from_lake('Rio San Juan', 'Lake Nicaragua').
+river_from_lake('Rio San Juan', 'Lake Managua').
+river_from_lake('Rio Sao Francisco', 'Lago de Sobradinho').
+river_from_lake('Rio Desaguadero', 'Lake Titicaca').
+river_from_lake('Murrumbidgee River', 'Lake Burley Griffin').
+river_from_lake('Murray River', 'Lake Hume').

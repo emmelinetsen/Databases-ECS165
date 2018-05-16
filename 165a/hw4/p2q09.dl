@@ -1,0 +1,1 @@
+q9(CountryCode):-country_continent(CountryCode,C1), country_continent(CountryCode,C2), C1 \= C2.

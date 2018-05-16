@@ -1,0 +1,170 @@
+
+ AFG     | Afghanistan                      | Kabul
+ AG      | Antigua and Barbuda              | Saint Johns
+ AL      | Albania                          | Tirane
+ AND     | Andorra                          | Andorra la Vella
+ ARM     | Armenia                          | Yerevan
+ AUS     | New South Wales                  | Sydney
+ A       | Vienna-Wien                      | Vienna
+ AZ      | Azerbaijan                       | Baku
+ B       | Brabant                          | Brussels
+ BD      | Bangladesh                       | Dhaka
+ BDS     | Barbados                         | Bridgetown
+ BG      | Bulgaria                         | Sofia
+ BHT     | Bhutan                           | Thimphu
+ BOL     | Bolivia                          | La Paz
+ BRN     | Bahrain                          | Manama
+ BR      | Sao Paulo                        | Sao Paulo
+ BRU     | Brunei                           | Bandar Seri Begawan
+ BS      | Bahamas                          | Nassau
+ BY      | Belarus                          | Minsk
+ BZ      | Belize                           | Belmopan
+ CAM     | Cote/Littoral                    | Douala
+ C       | Ciudad de la Habana              | Havana
+ CDN     | Quebec                           | Montreal
+ CH      | Zurich                           | Zurich
+ CI      | Cote dIvoire                     | Yamoussoukro
+ CL      | Sri Lanka                        | Colombo
+ CO      | Santa Fe de Bogota, DC           | Bogota
+ CR      | San Jose                         | San Jose
+ CV      | Cape Verde                       | Praia
+ CY      | Cyprus                           | Nicosia
+ CZ      | Praha                            | Prague
+ D       | Berlin                           | Berlin
+ DK      | Denmark                          | Copenhagen
+ DOM     | Dominican Republic               | Santo Domingo
+ DZ      | Algeria                          | Algier
+ EAK     | Nairobi                          | Nairobi
+ EAT     | Daressalam                       | Dar es Salaam
+ EC      | Ecuador                          | Guayaquil
+ E       | Madrid                           | Madrid
+ ES      | El Salvador                      | San Salvador
+ ET      | El Qahira                        | Cairo
+ ETH     | Ethiopia                         | Addis Ababa
+ EW      | Estonia                          | Tallinn
+ FGU     | French Guiana                    | Cayenne
+ F       | Ile de France                    | Paris
+ FJI     | Fiji                             | Suva
+ FL      | Liechtenstein                    | Vaduz
+ FSM     | Micronesia                       | Palikir
+ GAZA    | Gaza Strip                       | Gaza
+ GB      | Greater London                   | London
+ GCA     | Guatemala                        | Guatemala City
+ GE      | Georgia                          | Tbilisi
+ GH      | Ghana                            | Accra
+ GQ      | Equatorial Guinea                | Malabo
+ GR      | Attiki                           | Athens
+ GUAM    | Guam                             | Dededo
+ GUY     | Guyana                           | Georgetown
+ H       | Budapest (munic.)                | Budapest
+ HCA     | Francisco Morazan                | Tegucigalpa
+ HONX    | Hong Kong                        | Hong Kong
+ I       | Lazio                            | Rome
+ IL      | Central                          | Jerusalem
+ IND     | Maharashtra                      | Mumbai
+ IRL     | Ireland                          | Dublin
+ IRQ     | Baghdad                          | Baghdad
+ IR      | Tehran                           | Tehran
+ IS      | Iceland                          | Reykjavik
+ JA      | Jamaica                          | Kingston
+ JOR     | Jordan                           | Amman
+ J       | Tokyo                            | Tokyo
+ KAZ     | Almaty (munic.)                  | Almaty
+ K       | Cambodia                         | Phnom Penh
+ KGZ     | Kyrgyzstan                       | Bishkek
+ KIR     | Kiribati                         | Tarawa
+ KN      | Saint Kitts and Nevis            | Basseterre
+ KWT     | Kuwait                           | Kuwait
+ LAO     | Laos                             | Vientiane
+ L       | Luxembourg                       | Luxembourg
+ LS      | Lesotho                          | Maseru
+ LT      | Lithuania                        | Vilnius
+ LV      | Latvia                           | Riga
+ MAL     | Fed. Terr. of Kuala Lumpur       | Kuala Lumpur
+ MA      | Morocco                          | Casablanca
+ MART    | Martinique                       | Fort-de-France
+ MC      | Monaco                           | Monaco
+ MD      | Moldova                          | Chisinau
+ MEX     | Distrito Federal                 | Mexico City
+ MH      | Marshall Islands                 | Majuro
+ MK      | Macedonia                        | Skopje
+ M       | Malta                            | Valletta
+ MNE     | Montenegro                       | Podgorica
+ MNG     | Mongolia                         | Ulaanbaatar
+ MNTS    | Montserrat                       | Plymouth
+ MOC     | Maputo (munic.)                  | Maputo
+ MV      | Maldives                         | Male
+ MYA     | Yangon                           | Rangoon
+ NA      | Netherlands Antilles             | Willemstad
+ NEP     | Nepal                            | Kathmandu
+ NIC     | Nicaragua                        | Managua
+ NL      | Noord Holland                    | Amsterdam
+ NOK     | North Korea                      | Pyongyang
+ N       | Oslo                             | Oslo
+ NZ      | New Zealand                      | Auckland
+ NZ      | New Zealand                      | Christchurch
+ OM      | Oman                             | Muscat
+ PAL     | Palau                            | Koror
+ PA      | Panama                           | Panama City
+ PE      | Lima                             | Lima
+ PK      | Pakistan                         | Karachi
+ P       | Lisbon                           | Lisbon
+ PL      | Warszwaskie                      | Warsaw
+ PNG     | Papua New Guinea                 | Port Moresby
+ PY      | Paraguay                         | Asuncion
+ Q       | Qatar                            | Doha
+ RA      | Distrito Federal                 | Buenos Aires
+ RCH     | Chile                            | Santiago
+ RC      | Taiwan                           | Taipei
+ REUN    | Reunion                          | Saint-Denis
+ RH      | Haiti                            | Port-au-Prince
+ RI      | Indonesia                        | Jakarta
+ RL      | Lebanon                          | Beirut
+ RM      | Antananarivo                     | Antananarivo
+ R       | Moskva                           | Moscow
+ RO      | Bucuresti                        | Bucharest
+ ROK     | South Korea                      | Seoul
+ ROU     | Uruguay                          | Montevideo
+ RP      | Philippines                      | Quezon
+ RSA     | Western Cape                     | Cape Town
+ RSM     | San Marino                       | San Marino
+ SA      | Saudi Arabia                     | Riyadh
+ SF      | Uusimaa                          | Helsinki
+ SGP     | Singapore                        | Singapore
+ SLB     | Solomon Islands                  | Honiara
+ SMAR    | Saint Martin                     | Marigot
+ SME     | Suriname                         | Paramaribo
+ SN      | Dakar                            | Dakar
+ SPMI    | Saint Pierre and Miquelon        | Saint-Pierre
+ SRB     | Serbia                           | Belgrade
+ S       | Stockholm                        | Stockholm
+ SUD     | al Khartum                       | Omdurman
+ SYR     | Syria                            | Damascus
+ SY      | Seychelles                       | Victoria
+ TAD     | Dushanbe (munic.)                | Dushanbe
+ THA     | Thailand                         | Bangkok
+ TJ      | Shanghai (munic.)                | Shanghai
+ TL      | Timor-Leste                      | Dili
+ TM      | Ahal                             | Ashgabat
+ TO      | Tonga                            | Nukualofa
+ TR      | Istanbul                         | Istanbul
+ TT      | Trinidad and Tobago              | Port-of-Spain
+ TUV     | Tuvalu                           | Funafuti
+ UAE     | Dubayy                           | Dubai
+ UA      | Kyyivska                         | Kiev
+ USA     | New York                         | New York
+ UZB     | Toshkent                         | Tashkent
+ V       | Holy See                         | Vatican City
+ VN      | Vietnam                          | Saigon
+ VU      | Vanuatu                          | Port-Vila
+ WAN     | Nigeria                          | Lagos
+ WD      | Dominica                         | Roseau
+ WEST    | West Bank                        | Nablus
+ WG      | Grenada                          | Saint Georges
+ WL      | Saint Lucia                      | Castries
+ WS      | Samoa                            | Apia
+ WV      | Saint Vincent and the Grenadines | Kingstown
+ YE      | Yemen                            | Aden
+ YV      | Distrito Federal                 | Caracas
+ Z       | Lusaka                           | Lusaka
+ ZRE     | Kinshasa                         | Kinshasa

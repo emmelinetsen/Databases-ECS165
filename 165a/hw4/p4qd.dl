@@ -1,0 +1,7 @@
+ancestor( C, A) :- parent(C,A).
+ancestor( C, A) :-
+        parent(C,B),
+        ancestor(B,A).
+common_ancestor( C, D, A):-ancestor(C,A), ancestor(D,A), C\=D.
+not_lowest( C, D, A1):-common_ancestor(C, D, A), common_ancestor( C, D, A1),ancestor(A,A1), A\=A1.
+lca( C, D, A):-common_ancestor( C, D, A), not(not_lowest( C, D, A)).

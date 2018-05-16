@@ -1,0 +1,12 @@
+% parent(Child, Parent) - read as "parent_of C is P"
+parent(franz, wilhelm).
+parent(heinz, wilhelm).
+parent(hermann, wilhelm).
+parent(X, rita) :- parent(X, wilhelm). % rita and wilhelm have the same kids
+parent(bernhard, hermann).
+parent(karl, hermann).
+parent(kati, hermann).
+parent(X, johanna) :- parent(X, hermann). % like above for johanna and hermann
+parent(albert, bernhard).
+parent(albert, monique).
+parent(eva, kati).

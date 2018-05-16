@@ -1,0 +1,43 @@
+Group Project 1
+
+--MEMBERS
+Ho, Amanda 
+Thai, Kevin
+Tsen, Emmeline
+
+Type of project implemented: GDT-PSV
+
+--INPUTS USED
+Used the mondial.sql file from ECS165A except we removed the ALTER TABLE and CREATE VIEW
+from the schema. The .sql file used is attached. The primary key parsing works if the 
+spacing is consistent within the file. 
+
+The following is an example of bad spacing where the result will be one attribute labeled "Country1,Country2"
+CONSTRAINT BorderKey PRIMARY KEY (Country1,Country2) );
+The following is an example of good spacing where the result will (correctly) be two attributes labeled "Country1" and "Country2" respectively.
+CONSTRAINT BorderKey PRIMARY KEY (Country1 , Country2) );
+Otherwise, our parser can handle the vast majority of other spacing issues.
+
+Nevertheless, the program should be able to parse
+any schema effectively and creates a good graphic visualization.
+
+--HOW TO BUILD THE SYSTEM FROM THE SOURCES
+Included are three Java classes, where main is located within the file name parser.java
+The other two classes, FKEdge.java and Node.java, are helper classes that parser.java
+depend on. To run the progrom, run parser.java and make sure that the three classes
+are within the same directory. The source file in which we ran our tests on, mondial.sql,
+is also included where the ALTER TABLEs and CREATE VIEWs are removed. parser.java takes
+in mondial.sql to run and outputs myGraph.dot. NOTE: we used Eclipse which has a nice tool called Zest that graphically displays the .dot file
+before we use GraphViz to create a graphical .pdf of the result.
+
+--SYSTEM REQUIREMENTS AND DEPENDENCIES ON OTHER SOFTWARE PACKAGES
+None. You can run the java program and it will create a .dot file for you for which you can use GraphViz to display the representation. Eclipse's Zest
+tool automatically generated the visual graph for us.
+
+--HOW TO RUN THE TOOL
+If you are using Eclipse, download Zest and click on the "Export ?dot file to pdf" button. Zest will prompt you to locate the directory with GraphViz's dot executable.
+Once that is located clicking the button will generate the .pdf seamlessly. Obviously, you can still generate the .pdf image from the .dot file using GraphViz outside
+of Eclipse, it's just that we found Eclipse's Zest tool very handy.
+
+--DEVELOPMENT ENVIRONMENT
+Eclipse with the Zest plugin.

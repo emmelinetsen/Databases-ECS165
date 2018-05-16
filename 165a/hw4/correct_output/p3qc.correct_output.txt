@@ -1,0 +1,13 @@
+INSERT 0 1
+ERROR:  The super part cannot be cheaper than the sum of its direct subparts.
+INSERT 0 1
+ERROR:  The super part cannot be cheaper than the sum of its direct subparts.
+      1 |             |   100
+      2 |           1 |    50
+      3 |           1 |    30
+      4 |           2 |    20
+      5 |           2 |    10
+      6 |           3 |    20
+     11 |           1 |     1
+     13 |           1 |     1
+

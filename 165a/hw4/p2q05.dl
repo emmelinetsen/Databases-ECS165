@@ -1,0 +1,1 @@
+q5(CountryCode):-borders(CountryCode,C1,_), borders(CountryCode2,C2,_), CountryCode = CountryCode2, C1 \= C2.

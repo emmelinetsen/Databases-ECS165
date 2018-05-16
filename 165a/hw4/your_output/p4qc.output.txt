@@ -1,0 +1,14 @@
+{
+  samegen(bernhard,karl),
+  samegen(bernhard,kati),
+  samegen(franz,heinz),
+  samegen(franz,hermann),
+  samegen(heinz,franz),
+  samegen(heinz,hermann),
+  samegen(hermann,franz),
+  samegen(hermann,heinz),
+  samegen(karl,bernhard),
+  samegen(karl,kati),
+  samegen(kati,bernhard),
+  samegen(kati,karl)
+}

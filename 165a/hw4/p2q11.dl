@@ -1,0 +1,1 @@
+q11(RiverName):-river_into_lake(RiverName, Lake1), river_from_lake(RiverName2, Lake2), RiverName = RiverName2, Lake1=Lake2.

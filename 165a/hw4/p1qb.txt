@@ -1,0 +1,58 @@
+hw4=# create table brand(BrandName varchar(80) constraint bn_pk primary key);
+CREATE TABLE
+hw4=# create table model(Brand varchar(80) references brand on delete cascade, Name varchar(80) constraint nm_pk primary key);
+NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "nm_pk" for table "model"
+CREATE TABLE
+hw4=# insert into brand values('Toyota');
+INSERT 0 1
+hw4=# insert into brand values('Honda');
+INSERT 0 1
+hw4=# insert into brand values('Nissan');
+INSERT 0 1
+hw4=# select * from brand;
+ brandname
+-----------
+ Toyota
+ Honda
+ Nissan
+(3 rows)
+hw4=# insert into model values('Toyota', 'Camry');
+INSERT 0 1
+hw4=# insert into model values('Honda', 'Civic');
+INSERT 0 1
+hw4=# insert into model values('Nissan', 'Altima');
+INSERT 0 1
+hw4=# select * from model;
+ brand  |  name
+--------+--------
+ Toyota | Camry
+ Honda  | Civic
+ Nissan | Altima
+(3 rows)
+hw4=# delete from brand where brandname= 'Toyota';
+DELETE 1
+hw4=# select * from model;
+ brand  |  name
+--------+--------
+ Honda  | Civic
+ Nissan | Altima
+(2 rows)
+hw4=# drop table model;
+DROP TABLE
+hw4=# create table model(Name varchar(80) references brand);         CREATE TABLE
+hw4=# create table model(Brand varchar(80) references brand, Name varchar(80) constraint nm_pk primary key);
+NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "nm_pk" for table "model"
+CREATE TABLE
+hw4=# insert into brand values('Toyota');
+INSERT 0 1
+hw4=# insert into model values('Toyota', 'Camry');
+INSERT 0 1
+hw4=# insert into model values('Honda', 'Civic');
+INSERT 0 1
+hw4=# insert into model values('Nissan', 'Altima');
+INSERT 0 1
+hw4=# delete from brand where brandname= 'Toyota';
+ERROR:  update or delete on table "brand" violates foreign key constraint "model_brand_fkey" on table "model"
+DETAIL:  Key (brandname)=(Toyota) is still referenced from table "model".
+
+

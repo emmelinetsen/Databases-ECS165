@@ -1,0 +1,47 @@
+hw4=# alter table Country drop constraint c_fk
+hw4-# ;
+ALTER TABLE
+hw4=#
+hw4=# alter table Language drop constraint l_fk;
+ALTER TABLE
+hw4=# alter table Country add constraint c_fk foreign key(language) references Language(lang) on delete cascade initially deferred deferrable;
+ALTER TABLE
+hw4=# alter table Language add constraint l_fk foreign key(location) references Country(name) on delete cascade initially deferred deferrable;
+ALTER TABLE
+hw4=# begin transaction;
+BEGIN
+hw4=# insert into Country values('USA', 'English');
+INSERT 0 1
+hw4=# insert into Country values('China', 'Mandarin Chinese');
+INSERT 0 1
+hw4=# insert into Country values('Taiwan', 'Hakka');
+INSERT 0 1
+hw4=# insert into Country values('Malaysia', 'Malaysian');
+INSERT 0 1
+hw4=# insert into Language values('Mandarin Chinese', 'Taiwan');
+INSERT 0 1
+hw4=# insert into Language values('Malaysian', 'USA');
+INSERT 0 1
+hw4=# insert into Language values('Hakka', 'Malaysia');
+INSERT 0 1
+hw4=# insert into Language values('English', 'China');
+INSERT 0 1
+hw4=# commit;
+COMMIT
+hw4=# delete from country where language='English'
+hw4-# ;
+DELETE 1
+hw4=# select * from country
+hw4-# ;
+ name | language
+------+----------
+(0 rows)
+
+hw4=# select * from language
+;
+ lang | location
+------+----------
+(0 rows)
+
+------
+The output that I obtain is that both of the tables (country and language) don't have any tuples left after the delete because table Country references table Language and vise versa. Therefore, when I delete a tuple from Country, it would delete what it referenced in Language and that would delete another tuple from Country which eventually deletes all the tuples in both tables.

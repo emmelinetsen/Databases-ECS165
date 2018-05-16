@@ -1,0 +1,12 @@
+%Account for Country C1 that doesn't have all the religions
+%when there is a country and religion in udef_religion
+%that doesn't have the religion
+
+nr(C1) :-         	  
+	country_religion(C1, _),          
+	udef_religion(R),         	 
+	not( country_religion(C1,R) ).  
+
+q12(CountryCode) :-
+	country_religion(CountryCode,_),
+	not( nr(CountryCode) ).

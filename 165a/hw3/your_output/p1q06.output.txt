@@ -1,0 +1,38 @@
+
+ African Methodist Episcopal |  0.00
+ Anglican                    |  0.15
+ Armenian Apostolic          |  0.01
+ Bahai                       |  0.01
+ Baptist                     |  0.00
+ Buddhist                    |  4.56
+ Chondogyo                   |  0.00
+ Christian                   |  2.79
+ Christian Congregationalist |  0.00
+ Christian Orthodox          |  1.60
+ Church Christ               |  0.00
+ Church of God               |  0.00
+ Church Tuvalu               |  0.00
+ Confucianism                |  0.02
+ Coptic Christian            |  0.07
+ Druze                       |  0.00
+ Ekalesia Niue               |  0.00
+ Episcopalian                |  0.00
+ Evangelical Alliance        |  0.00
+ Hindu                       | 14.03
+ Jains                       |  0.08
+ Jewish                      |  0.13
+ Judaism                     |  0.08
+ Kimbanguist                 |  0.08
+ Methodist                   |  0.00
+ Mormon                      |  0.00
+ Muslim                      | 20.29
+ Pentecostal                 |  0.00
+ Presbyterian                |  0.02
+ Protestant                  |  5.10
+ Roman Catholic              | 15.32
+ Seventh-Day Adventist       |  0.00
+ Sikh                        |  0.33
+ Taoist                      |  0.35
+ United                      |  0.00
+ United Church               |  0.06
+ Uniting Church Australia    |  0.00

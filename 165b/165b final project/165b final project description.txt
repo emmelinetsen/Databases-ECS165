@@ -1,0 +1,27 @@
+Objectives: 
+
+Install Hadoop
+Run WordCount demo
+Implement bigram count
+Instructions:
+
+Download Hadoop 1.1.1
+Install/switch to the Java 6 JDK. This will simplify working with Amazon EC2 in Part 2. To do this on Ubuntu, use 'sudo apt-get install openjdk-6-jdk' and 'sudo update-alternatives --config javac'
+Download the full text of SOPA from http://www.gpo.gov/fdsys/pkg/BILLS-112hr3261ih/html/BILLS-112hr3261ih.htm. This is the document we will be analyzing in Parts 1 and 2.
+Follow the directions at http://hadoop.apache.org/docs/r1.1.1/mapred_tutorial.html to get Hadoop running on your local machine.
+Run Hadoop's WordCount demo (included with the Hadoop release) on SOPA and save your results.
+Using the WordCount program as a template, implement a bigram counter. Bigrams are pairs of adjacent words appearing in text. For example, in the previous sentence, 'bigrams are', 'are pairs', and 'pairs of' are bigrams. For our purposes, words separated by a newline do not count as bigrams. That is, you only have to consider adjacent pairs within each individual line.
+Run your bigram counter on SOPA and save your results.
+What to Submit:
+
+The word and bigram counts for SOPA
+The source code for your bigram counter
+
+Resources:
+
+Hadoop 1.1.1 - http://hadoop.apache.org/releases.html
+Hadoop Quick Start - http://hadoop.apache.org/docs/r1.1.1/single_node_setup.html
+Hadoop Tutorial http://hadoop.apache.org/docs/r1.1.1/mapred_tutorial.html
+http://en.wikipedia.org/wiki/Bigram
+Full text of SOPA http://www.gpo.gov/fdsys/pkg/BILLS-112hr3261ih/html/BILLS-112hr3261ih.htm
+Yahoo Hadoop Tutorials: http://developer.yahoo.com/hadoop/tutorial/

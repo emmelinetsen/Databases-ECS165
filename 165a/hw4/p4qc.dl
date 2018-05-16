@@ -1,0 +1,2 @@
+samegen(X,Y):-parent(X,P),parent(Y,P),X\=Y.
+samegen(X,Y):-parent(X, P1), samegen(P1,P2), parent(Y,P2), X\=Y. %recursively checks P

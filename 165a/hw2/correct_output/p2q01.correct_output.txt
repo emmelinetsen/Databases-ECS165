@@ -1,0 +1,226 @@
+
+ Adana_Adana_TR                              |  1047300 |   36.9833 |     35.3 | TR
+ Addis Ababa_Ethiopia_ETH                    |  2316400 |         9 |    38.75 | ETH
+ Adelaide_South Australia_AUS                |  1050000 |  -34.9333 |  138.583 | AUS
+ Ahmadabad_Gujarat_IND                       |  2954526 |           |          | IND
+ Alexandria_El Iskandariya_ET                |  2917000 |        31 |       30 | ET
+ Algier_Algeria_DZ                           |  1507241 |   36.7667 |     3.05 | DZ
+ Almaty_Almaty (munic.)_KAZ                  |  1172400 |   43.2333 |  76.8833 | KAZ
+ Amsterdam_Noord Holland_NL                  |  1101407 |   52.3833 |  4.91667 | NL
+ Ankara_Ankara_TR                            |  2782200 |     39.95 |  32.8833 | TR
+ Anshan_Liaoning_TJ                          |  1390000 |           |          | TJ
+ Antananarivo_Antananarivo_RM                |  1250000 |     -18.6 |     47.4 | RM
+ Baghdad_Baghdad_IRQ                         |  4478000 |   33.3333 |     44.4 | IRQ
+ Baku_Azerbaijan_AZ                          |  1740000 |      40.3 |     49.5 | AZ
+ Bandung_Indonesia_RI                        |  2058649 |     -6.58 |    107.4 | RI
+ Bangalore_Karnataka_IND                     |  3302296 |     12.95 |  77.6167 | IND
+ Bangkok_Thailand_THA                        |  5876000 |   13.7333 |    100.5 | THA
+ Baotou_Nei Monggol_TJ                       |  1200000 |           |          | TJ
+ Barcelona_Catalonia_E                       |  1630867 |      41.4 |     2.15 | E
+ Barranquilla_Atlantico_CO                   |  1064255 |     10.95 |    -74.8 | CO
+ Beijing_Beijing (munic.)_TJ                 |  7000000 |      39.5 |    116.2 | TJ
+ Belem_Para_BR                               |  1142258 |     -1.45 | -48.4833 | BR
+ Belgrade_Serbia_SRB                         |  1407073 |      44.8 |  20.4667 | SRB
+ Belo Horizonte_Minas Gerais_BR              |  2091770 |  -19.9333 |   -43.95 | BR
+ Berlin_Berlin_D                             |  3472009 |     52.45 |     13.3 | D
+ Bhopal_Madhya Pradesh_IND                   |  1062771 |      23.1 |     77.4 | IND
+ Birmingham_West Midlands_GB                 |  1008400 |   52.4833 | -1.93333 | GB
+ Bogota_Santa Fe de Bogota, DC_CO            |  5237635 |       4.6 | -74.0833 | CO
+ Brasilia_Distrito Federal_BR                |  1817001 |  -15.8667 | -47.9167 | BR
+ Brisbane_Queensland_AUS                     |  1302000 |  -27.4667 |  153.033 | AUS
+ Bucharest_Bucuresti_RO                      |  2037000 |   44.4167 |     26.1 | RO
+ Budapest_Budapest (munic.)_H                |  2016000 |   47.5167 |  19.0333 | H
+ Buenos Aires_Distrito Federal_RA            |  2988006 |  -34.5833 | -58.4833 | RA
+ Cairo_El Qahira_ET                          |  6053000 |   29.8667 |  31.3333 | ET
+ Calcutta_West Bengal_IND                    |  4399819 |   22.5333 |  88.3333 | IND
+ Cali_Valle de Cauca_CO                      |  1718871 |   3.41667 |    -76.5 | CO
+ Caracas_Distrito Federal_YV                 |  1822465 |      10.5 | -66.9333 | YV
+ Casablanca_Morocco_MA                       |  2940623 |   33.5833 |    -7.65 | MA
+ Changchun_Jilin_TJ                          |  2110000 |      43.5 |   125.15 | TJ
+ Changsha_Hunan_TJ                           |  1330000 |      28.1 |    113.5 | TJ
+ Chelyabinsk_Chelyabinskaya oblast_R         |  1086000 |           |          | R
+ Chengdu_Sichuan_TJ                          |  2810000 |     33.15 |   107.15 | TJ
+ Chicago_Illinois_USA                        |  2783726 |   41.8833 | -87.6333 | USA
+ Chittagong_Bangladesh_BD                    |  1599000 |     22.35 |  91.8333 | BD
+ Chongqing_Sichuan_TJ                        |  2980000 |           |          | TJ
+ Copenhagen_Denmark_DK                       |  1358540 |   55.6833 |    12.55 | DK
+ Cordoba_Cordoba_RA                          |  1208713 |  -31.3667 |   -64.25 | RA
+ Curitiba_Parana_BR                          |  1465698 |  -25.4167 | -49.2833 | BR
+ Dakar_Dakar_SN                              |  1382000 |      14.7 | -17.4833 | SN
+ Dalian_Liaoning_TJ                          |  2400000 |           |          | TJ
+ Dallas_Texas_USA                            |  1007618 |     32.85 |   -96.85 | USA
+ Damascus_Syria_SYR                          |  1500000 |      33.5 |  36.3333 | SYR
+ Dar es Salaam_Daressalam_EAT                |  1360850 |  -6.83333 |     39.3 | EAT
+ Datong_Shanxi_TJ                            |  1110000 |           |          | TJ
+ Davao_Philippines_RP                        |  1007000 |           |          | RP
+ Detroit_Michigan_USA                        |  1027974 |   42.4167 | -83.0167 | USA
+ Dhaka_Bangladesh_BD                         |  3839000 |        24 |     90.5 | BD
+ Dnipropetrovsk_Dnipropetrovska_UA           |  1187000 |           |          | UA
+ Donetsk_Donetska_UA                         |  1117000 |           |          | UA
+ El Giza_El Giza_ET                          |  1671000 |           |          | ET
+ Esfahan_Esfahan_IR                          |  1220595 |      32.4 |     51.4 | IR
+ Fortaleza_Ceara_BR                          |  1967365 |  -3.76667 |   -38.55 | BR
+ Fukuoka_Fukuoka_J                           |  1273000 |   33.5833 |   130.45 | J
+ Fushun_Liaoning_TJ                          |  1350000 |           |          | TJ
+ Fuzhou_Jiangxi_TJ                           |  1290000 |           |          | TJ
+ Guadalajara_Jalisco_MEX                     |  1650042 |   20.6833 | -103.333 | MEX
+ Guangzhou_Guangdong_TJ                      |  3580000 |        23 |      114 | TJ
+ Guayaquil_Ecuador_EC                        |  1300868 |        -2 |      -80 | EC
+ Guiyang_Guizhou_TJ                          |  1530000 |        26 |      106 | TJ
+ Gujranwala_Pakistan_PK                      |  1663000 |           |          | PK
+ Haiphong_Vietnam_VN                         |  1447523 |           |          | VN
+ Hamburg_Hamburg_D                           |  1705872 |     53.55 |  9.96667 | D
+ Handan_Hebei_TJ                             |  1110000 |           |          | TJ
+ Hangzhou_Zhejiang_TJ                        |  1340000 |      30.2 |    125.5 | TJ
+ Hanoi_Vietnam_VN                            |  3056146 |   21.0333 |  105.867 | VN
+ Harbin_Heilongjiang_TJ                      |  2830000 |      45.4 |    126.4 | TJ
+ Havana_Ciudad de la Habana_C                |  2241000 |   23.1333 |   -82.35 | C
+ Hiroshima_Hiroshima_J                       |  1099000 |      34.3 |    132.3 | J
+ Hong Kong_Hong Kong_HONX                    |  7055071 |      22.3 |    114.2 | HONX
+ Houston_Texas_USA                           |  1637859 |   29.9667 |   -95.35 | USA
+ Huainan_Anhui_TJ                            |  1200000 |           |          | TJ
+ Hyderabad_Andhra Pradesh_IND                |  3145939 |      17.1 |     78.2 | IND
+ Hyderabad_Pakistan_PK                       |  1107000 |           |          | PK
+ Ibadan_Nigeria_WAN                          |  1263000 |           |          | WAN
+ Inchon_South Korea_ROK                      |  2307618 |           |          | ROK
+ Indore_Madhya Pradesh_IND                   |  1091674 |           |          | IND
+ Istanbul_Istanbul_TR                        |  7615500 |   40.9667 |  28.8333 | TR
+ Izmir_Izmir_TR                              |  1985300 |   38.4333 |  27.1667 | TR
+ Jaipur_Rajasthan_IND                        |  1458183 |        27 |     75.5 | IND
+ Jakarta_Indonesia_RI                        |  8259266 |      -6.1 |    106.5 | RI
+ Jilin_Jilin_TJ                              |  1270000 |           |          | TJ
+ Jinan_Shandong_TJ                           |  2320000 |      36.5 |      117 | TJ
+ Kalookan_Philippines_RP                     |  1023000 |           |          | RP
+ Kalyan_Maharashtra_IND                      |  1014557 |           |          | IND
+ Kanpur_Uttar Pradesh_IND                    |  1879420 |           |          | IND
+ Kaohsiung_Taiwan_RC                         |  1426518 |           |          | RC
+ Karachi_Pakistan_PK                         |  9863000 |      24.8 |    66.98 | PK
+ Kawasaki_Kanagawa_J                         |  1187000 |           |          | J
+ Kazan_Rep. of Tatarstan_R                   |  1085000 |           |          | R
+ Kharkiv_Kharkivska_UA                       |  1618000 |        50 |  36.2333 | UA
+ Kiev_Kyyivska_UA                            |  2616000 |     50.45 |     30.5 | UA
+ Kinshasa_Kinshasa_ZRE                       |  4655313 |      -4.3 |     15.2 | ZRE
+ Kita Kyushu_Fukuoka_J                       |  1012000 |           |          | J
+ Kobe_Hyogo_J                                |  1388000 |           |          | J
+ Kuala Lumpur_Fed. Terr. of Kuala Lumpur_MAL |  1145075 |   3.11667 |    101.7 | MAL
+ Kunming_Yunnan_TJ                           |  1520000 |      25.5 |    102.4 | TJ
+ Kwangju_South Korea_ROK                     |  1257504 |           |          | ROK
+ Kyoto_Kyoto_J                               |  1415000 |        35 |   135.45 | J
+ Lagos_Nigeria_WAN                           |  5686000 |      6.45 |      3.4 | WAN
+ Lahore_Pakistan_PK                          |  5085000 |     31.58 |    74.33 | PK
+ La Matanza_Buenos Aires_RA                  |  1111811 |           |          | RA
+ Lanzhou_Gansu_TJ                            |  1510000 |        36 |      104 | TJ
+ Lima_Lima_PE                                |  6321173 |  -12.0833 |   -77.05 | PE
+ London_Greater London_GB                    |  6967500 |   51.4833 |        0 | GB
+ Los Angeles_California_USA                  |  3485557 |        34 |     -118 | USA
+ Lucknow_Uttar Pradesh_IND                   |  1619115 |        27 |       81 | IND
+ Ludhiana_Punjab_IND                         |  1042740 |           |          | IND
+ Luoyang_Henan_TJ                            |  1190000 |           |          | TJ
+ Lyallpur_Pakistan_PK                        |  1875000 |           |          | PK
+ Madras_Tamil Nadu_IND                       |  3841396 |   13.0667 |    80.25 | IND
+ Madrid_Madrid_E                             |  3041101 |   40.4167 | -3.68333 | E
+ Managua_Nicaragua_NIC                       |  1195000 |   12.1667 |   -86.25 | NIC
+ Manaus_Amazonas_BR                          |  1158265 |      -3.1 |      -60 | BR
+ Manila_Philippines_RP                       |  1655000 |   14.5833 |  120.983 | RP
+ Maracaibo_Zulia_YV                          |  1249670 |     10.65 |    -71.6 | YV
+ Mashhad_Khorasan_IR                         |  1964489 |      36.2 |     59.4 | IR
+ Medan_Indonesia_RI                          |  1730752 |   3.58333 |  98.6833 | RI
+ Medellin_Antioquia_CO                       |  1621356 |   6.21667 |    -75.6 | CO
+ Melbourne_Victoria_AUS                      |  3081000 |  -37.8167 |  144.967 | AUS
+ Mexico City_Distrito Federal_MEX            |  9815795 |      19.4 |    -99.2 | MEX
+ Milan_Lombardia_I                           |  1432184 |     45.45 |  9.28333 | I
+ Minsk_Belarus_BY                            |  1540000 |      53.9 |    27.55 | BY
+ Monterrey_Nuevo Leon_MEX                    |  1068996 |   25.6667 |   -100.3 | MEX
+ Montevideo_Uruguay_ROU                      |  1247000 |    -34.85 | -56.2167 | ROU
+ Montreal_Quebec_CDN                         |  1017666 |      45.3 |    -73.5 | CDN
+ Moscow_Moskva_R                             |  8717000 |   55.7667 |  37.6667 | R
+ Multan_Pakistan_PK                          |  1257000 |           |          | PK
+ Mumbai_Maharashtra_IND                      |  9925891 |        19 |     72.5 | IND
+ Munich_Bayern_D                             |  1290079 |     48.15 |  11.5667 | D
+ Nagoya_Aichi_J                              |  2108000 |           |          | J
+ Nagpur_Maharashtra_IND                      |  1624752 |     21.15 |  79.1167 | IND
+ Nairobi_Nairobi_EAK                         |  1346000 |  -1.26667 |     36.8 | EAK
+ Nanchang_Jiangxi_TJ                         |  1350000 |      28.4 |    115.5 | TJ
+ Nanjing_Jiangsu_TJ                          |  2500000 |      32.5 |      119 | TJ
+ Nanning_Guangxi Zhuangzu_TJ                 |  1070000 |      22.5 |    108.5 | TJ
+ Napoli_Campania_I                           |  1206013 |      40.5 |    14.15 | I
+ New Delhi_Delhi_IND                         |  7206704 |   28.5833 |     77.2 | IND
+ New York_New York_USA                       |  7322564 |      40.4 |      -74 | USA
+ Nezahualcoyotl_Chiapas_MEX                  |  1255456 |           |          | MEX
+ Ningbo_Zhejiang_TJ                          |  1090000 |           |          | TJ
+ Nizhniy Novgorod_Nizhegorodskaya oblast_R   |  1383000 |      56.3 |       44 | R
+ Novosibirsk_Novosibirskaya oblast_R         |  1369000 |           |          | R
+ Odesa_Odeska_UA                             |  1106000 |   46.4833 |  30.7333 | UA
+ Omdurman_al Khartum_SUD                     |  1267077 |           |          | SUD
+ Omsk_Omskaya oblast_R                       |  1163000 |           |          | R
+ Osaka_Osaka_J                               |  2492000 |           |          | J
+ Palembang_Indonesia_RI                      |  1144279 |        -3 |  104.767 | RI
+ Paris_Ile de France_F                       |  2152423 |   48.8167 |  2.48333 | F
+ Perm_Permskaya oblast_R                     |  1032000 |           |          | R
+ Perth_Western Australia_AUS                 |  1193000 |    -31.95 |   115.85 | AUS
+ Peshawar_Pakistan_PK                        |  1676000 |           |          | PK
+ Philadelphia_Pennsylvania_USA               |  1585577 |   39.8833 |   -75.25 | USA
+ Porto Alegre_Rio Grande do Sul_BR           |  1286251 |  -30.0333 | -51.2167 | BR
+ Prague_Praha_CZ                             |  1215000 |   50.0833 |  14.4167 | CZ
+ Puebla_Puebla_MEX                           |  1007170 |        19 |    -98.1 | MEX
+ Pune_Maharashtra_IND                        |  1566651 |           |          | IND
+ Pusan_South Korea_ROK                       |  3813814 |           |          | ROK
+ Pyongyang_North Korea_NOK                   |  2335000 |   39.0333 |  125.683 | NOK
+ Qingdao_Shandong_TJ                         |  2060000 |           |          | TJ
+ Qiqihar_Heilongjiang_TJ                     |  1380000 |           |          | TJ
+ Quezon_Philippines_RP                       |  1989000 |           |          | RP
+ Quito_Ecuador_EC                            |  1200000 | -0.216667 | -78.5333 | EC
+ Rabat_Morocco_MA                            |  1385872 |      33.6 |     -6.5 | MA
+ Rangoon_Yangon_MYA                          |  2513000 |   16.7833 |    96.15 | MYA
+ Rawalpindi_Pakistan_PK                      |  1290000 |           |          | PK
+ Recife_Pernambuco_BR                        |  1342877 |  -8.06667 | -34.8833 | BR
+ Rio de Janeiro_Rio de Janeiro_BR            |  5533011 |       -23 |    -43.2 | BR
+ Riyadh_Saudi Arabia_SA                      |  1250000 |     24.65 |     46.7 | SA
+ Rome_Lazio_I                                |  2791354 |      41.8 |     12.6 | I
+ Rosario_Santa Fe_RA                         |  1118984 |       -33 |    -60.5 | RA
+ Rostov na Donu_Rostovskaya oblast_R         |  1026000 |           |          | R
+ Rotterdam_Zuid Holland_NL                   |  1078747 |           |          | NL
+ Saigon_Vietnam_VN                           |  3924435 |      10.5 |    106.5 | VN
+ Salvador_Bahia_BR                           |  2209465 |       -13 |    -38.5 | BR
+ Samara_Samarskaya oblast_R                  |  1184000 |           |          | R
+ San Diego_California_USA                    |  1110623 |   32.7333 | -117.167 | USA
+ Sankt Peterburg_Sankt Peterburg_R           |  4838000 |           |          | R
+ Santiago_Chile_RCH                          |  4318000 |    -33.45 |    -70.7 | RCH
+ Santo Domingo_Dominican Republic_DOM        |  1400000 |   18.4833 |    -69.9 | DOM
+ Sao Paulo_Sao Paulo_BR                      |  9811776 |    -23.55 | -46.6333 | BR
+ Sapporo_Hokkaido_J                          |  1748000 |   43.0667 |   141.35 | J
+ Semarang_Indonesia_RI                       |  1250971 |           |          | RI
+ Seoul_South Korea_ROK                       | 10229262 |   37.5667 |  126.967 | ROK
+ Shanghai_Shanghai (munic.)_TJ               |  7830000 |      31.2 |  121.433 | TJ
+ Shenyang_Liaoning_TJ                        |  4540000 |        42 |    123.3 | TJ
+ Shijiazhuang_Hebei_TJ                       |  1320000 |        38 |    114.5 | TJ
+ Shiraz_Fars_IR                              |  1042801 |      29.4 |     52.3 | IR
+ Singapore_Singapore_SGP                     |  2558000 |       1.3 |  103.833 | SGP
+ Sofia_Bulgaria_BG                           |  1300000 |      42.7 |  23.3333 | BG
+ Surabaya_Indonesia_RI                       |  2483871 |  -7.21667 |  112.717 | RI
+ Surat_Gujarat_IND                           |  1505872 |           |          | IND
+ Sydney_New South Wales_AUS                  |  3657000 |  -33.8667 |    151.2 | AUS
+ Tabriz_Azarbayian e Sharqi_IR               |  1166203 |      38.1 |     46.2 | IR
+ Taegu_South Korea_ROK                       |  2449139 |           |          | ROK
+ Taejon_South Korea_ROK                      |  1272143 |           |          | ROK
+ Taipei_Taiwan_RC                            |  2626138 |   25.0333 |  121.517 | RC
+ Taiyuan_Shanxi_TJ                           |  1960000 |        38 |    112.3 | TJ
+ Tangshan_Hebei_TJ                           |  1500000 |           |          | TJ
+ Tashkent_Toshkent_UZB                       |  2106000 |   41.3333 |     69.3 | UZB
+ Tbilisi_Georgia_GE                          |  1200000 |   41.7167 |     44.8 | GE
+ Tehran_Tehran_IR                            |  6750043 |   35.6833 |  51.4167 | IR
+ Tianjin_Tianjin (munic.)_TJ                 |  5770000 |      39.1 |    117.2 | TJ
+ Tokyo_Tokyo_J                               |  7843000 |   35.6833 |  139.767 | J
+ Ufa_Rep. of Bashkortostan_R                 |  1094000 |           |          | R
+ Urumqi_Xinjiang Uygur_TJ                    |  1160000 |        44 |       88 | TJ
+ Vadodara_Gujarat_IND                        |  1061598 |           |          | IND
+ Vienna_Vienna-Wien_A                        |  1583000 |      48.2 |  16.3667 | A
+ Volgograd_Volgogradskaya oblast_R           |  1003000 |      48.7 |  44.5167 | R
+ Warsaw_Warszwaskie_PL                       |  1655000 |   52.2167 |  21.0333 | PL
+ Wuhan_Hubei_TJ                              |  3750000 |     30.45 |   114.15 | TJ
+ Xian_Shaanxi_TJ                             |  2760000 |        34 |      109 | TJ
+ Yekaterinburg_Sverdlovskaya oblast_R        |  1280000 |           |          | R
+ Yerevan_Armenia_ARM                         |  1200000 |      40.1 |     44.4 | ARM
+ Yokohama_Kanagawa_J                         |  3256000 |      35.3 |   139.32 | J
+ Zhengzhou_Henan_TJ                          |  1710000 |      34.5 |      114 | TJ
+ Zibo_Shandong_TJ                            |  2460000 |           |          | TJ

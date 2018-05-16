@@ -1,0 +1,1 @@
+The GMH table is created using the GMV view table (therefore, the GMV view table needs to be there before running the GMH view table). The GMV table is used in order to get respective information (data and indicator) for each country for each year. Using this information, we are able to create the horizontal view which includes the country, year, LE, POP, GDP, HS, and EL.
